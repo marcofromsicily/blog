@@ -25,3 +25,7 @@ theme: minima
 exclude:
   - Gemfile
   - Gemfile.lock
+
+gems:
+    - jekyll-seo-tag
+    - jekyll-sitemap
