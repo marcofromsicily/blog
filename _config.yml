@@ -1,6 +1,7 @@
 title: marcofromsicily Blog
 description: Marketing & Open Source
 url: http://www.marcolombardo.com/blog/
+baseurl: /blog
 author: Marco Lombardo
 email: mail@marcolombardo.com
 
