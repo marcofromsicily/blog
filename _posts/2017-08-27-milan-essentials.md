@@ -1,8 +1,15 @@
+---
+layout: post
+title: "Milan Essentials"
+categories: City Guide
+---
+
+
 # Milan Essentials
 
 "Milan Essentials" is a collection of essential links for digital nomads visiting [Milan](https://www.comune.milano.it/).
 
-![Galleria](/images/galleria.jpg)
+![Galleria](https://raw.githubusercontent.com/marcofromsicily/blog/master/images/galleria.jpg)
 
 This quick guide for nomad workers was inspired by [Awesome Linux](https://github.com/madbob/awesome-linux-dev).
 
