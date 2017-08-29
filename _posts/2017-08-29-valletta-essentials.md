@@ -49,4 +49,4 @@ This quick guide for nomad workers was inspired by [Awesome Linux](https://githu
 
 ### Webcam
 
-* [Valletta](https://www.skylinewebcams.com/it/webcam/malta/malta/valletta/valletta-tigne-seafront.html)le.html)
+* [Valletta](https://www.skylinewebcams.com/it/webcam/malta/malta/valletta/valletta-tigne-seafront.html)
