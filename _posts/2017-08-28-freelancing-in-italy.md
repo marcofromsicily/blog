@@ -16,8 +16,9 @@ This quick guide for freelancers was inspired by [Awesome Linux](https://github.
 ## Contents
 
 * [e-gov](#egov)
-* [utilities](#utilities)
+* [Utilities](#utilities)
 * [Marketing](#marketing)
+* [Learning](#learning)
 
 ### egov
 
@@ -35,3 +36,7 @@ This quick guide for freelancers was inspired by [Awesome Linux](https://github.
 ### marketing
 
 * [JSON Resume](https://jsonresume.org/) - A tool to write your resume in the JSON format
+
+### learning
+
+* [EDU Open](https://learn.eduopen.org/) - Massive Open Online Courses
