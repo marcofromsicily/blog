@@ -17,6 +17,7 @@ This quick guide for freelancers was inspired by [Awesome Linux](https://github.
 
 * [e-gov](#egov)
 * [utilities](#utilities)
+* [Marketing](#marketing)
 
 ### egov
 
@@ -30,3 +31,7 @@ This quick guide for freelancers was inspired by [Awesome Linux](https://github.
 * [N26](https://next.n26.com/it-it/?lang=it) - Online bank
 * [Postepay Evolution Business](https://postepay.poste.it/prodotti/postepay-evolution-business.html) - An easy to open bank account
 * [TIM](https://www.tim.it/) - Internet provider
+
+### marketing
+
+* [JSON Resume](https://jsonresume.org/) - A tool to write your resume in the JSON format
