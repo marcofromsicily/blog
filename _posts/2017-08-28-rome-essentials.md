@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Rome Essentials"
-categories: City Guide
+categories: City Guides
 ---
 
 

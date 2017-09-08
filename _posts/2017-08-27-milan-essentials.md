@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Milan Essentials"
-categories: City Guide
+categories: City Guides
 ---
 
 

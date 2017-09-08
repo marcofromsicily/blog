@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Valletta Essentials"
-categories: City Guide
+categories: City Guides
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Palermo Essentials"
-categories: City Guide
+categories: City Guides
 ---
 
 # Palermo Essentials
