@@ -29,3 +29,6 @@ exclude:
 gems:
     - jekyll-seo-tag
     - jekyll-sitemap
+
+
+plugins: [jekyll-youtube]
