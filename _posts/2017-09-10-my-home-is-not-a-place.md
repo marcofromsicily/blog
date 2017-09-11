@@ -8,4 +8,4 @@ categories: lifestyle
 
 It is People.
 
-{% youtube "https://www.youtube.com/watch?v=hnNAQ9Rj1hA&index=2&list=LL4JDF8PQnirC7LKnMUDjQlQ" %}
+{% include youtubePlayer.html id=page.hnNAQ9Rj1hA %}
