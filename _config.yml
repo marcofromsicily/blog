@@ -6,7 +6,6 @@ author: Marco Lombardo
 email: mail@marcolombardo.com
 
 twitter_username: marcofromsicily
-linkedin_username: marcofromsicily
 github_username:  marcofromsicily
 
 # Minima date format
@@ -29,5 +28,3 @@ exclude:
 gems:
     - jekyll-seo-tag
     - jekyll-sitemap
-
-
