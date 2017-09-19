@@ -36,6 +36,7 @@ This quick guide for nomad workers was inspired by [Awesome Linux](https://githu
 
 * [Talent Garden](https://roma-poste.talentgarden.org/) - Tech cowork
 * [Impact Hub](http://www.hubroma.net/) - Social innovation cowork
+* [Anticafè](https://www.anticafe.eu/roma) - Coffee house and cowork
 
 
 ### Sightseeing
