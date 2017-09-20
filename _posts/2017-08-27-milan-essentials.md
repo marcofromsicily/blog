@@ -56,7 +56,7 @@ This quick guide for nomad workers was inspired by [Awesome Linux](https://githu
 
 * [Duomo](http://www.duomomilano.it/it/) - Milan Cathedral
 * [Galleria Vittorio Emanuele II](http://www.ingalleria.com/it) - The world oldest shopping mall
-* [la Rinascente](https://www.rinascente.it/) - Italy’s most elegant department store  
+* [Rinascente](https://www.rinascente.it/) - Italy’s most elegant department store  
 * [Museo del novecento](http://www.museodelnovecento.org/it/) - 20th century Italian art museum
 * [Castello Sforzesco](https://www.milanocastello.it/) - Milan Castel
 * [Sant'Ambrogio Basilica](http://www.basilicasantambrogio.it/) - Church
