@@ -44,7 +44,7 @@ This quick guide for nomad workers was inspired by [Awesome Linux](https://githu
 * [Mondello Beach](http://umap.openstreetmap.fr/it/map/attivita-commerciali-mondello-promondello_157054#15/38.2068/13.3316) - Palermo's beach.
 * [Santuario Santa Rosalia](http://www.santuariosantarosalia.it/) - The sanctuary on the top of "Monte Pellegrino", a mountain that surrounds Palermo
 * [Renzo Barbera Stadium](http://palermocalcio.it/) - Open for match days ONLY
-* [la Rinascente](https://www.rinascente.it/) - Italy’s most elegant department store  
+* [Rinascente](https://www.rinascente.it/) - Italy’s most elegant department store  
 
 ### Food
 
