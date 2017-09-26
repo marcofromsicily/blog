@@ -69,6 +69,7 @@ This quick guide for nomad workers was inspired by [Awesome Linux](https://githu
 ### Food
 
 * [Spontini](http://www.pizzeriaspontini.it/) - Pizzeria
+* [Sorbillo](http://www.sorbillo.it/) - Pizzeria
 
 ### Webcam
 
