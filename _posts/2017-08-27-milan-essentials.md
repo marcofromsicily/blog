@@ -38,6 +38,7 @@ This quick guide for nomad workers was inspired by [Awesome Linux](https://githu
 * [Base](http://base.milano.it/) - Creative business incubator
 * [Cohub](http://www.cohubmilano.it/) - Sharing economy incubator
 * [Polihub](http://www.polihub.it/) - Startup district
+* [Fintech District](http://www.fintechdistrict.com/) - Fintech incubator
 
 ### Coworking
 
@@ -70,6 +71,7 @@ This quick guide for nomad workers was inspired by [Awesome Linux](https://githu
 
 * [Spontini](http://www.pizzeriaspontini.it/) - Pizzeria
 * [Sorbillo](http://www.sorbillo.it/) - Pizzeria
+* [Rinomata Gelateria Artigiana](https://www.tripadvisor.it/Restaurant_Review-g187849-d1782796-Reviews-La_Rinomata_Gelateria-Milan_Lombardy.html) - Creps and Gelati
 
 ### Webcam
 
