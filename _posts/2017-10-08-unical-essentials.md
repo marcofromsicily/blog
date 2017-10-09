@@ -19,6 +19,8 @@ This quick guide for nomad workers was inspired by [Awesome Linux](https://githu
 * [Transports](#transports)
 * [Communities](#communities)
 * [Coworking](#coworking)
+* [Food](#Food)
+* [Map](#Map)
 
 ### Accommodation
 
@@ -36,3 +38,11 @@ This quick guide for nomad workers was inspired by [Awesome Linux](https://githu
 ### Coworking
 
 * [Talent Garden](https://cosenza.talentgarden.org/) - Tech cowork 
+
+### Food
+
+* [Aumm Aumm](https://www.facebook.com/AummAummPizzeria/) - Pizzeria
+
+### Map
+
+* [Unical Essentials Map](https://umap.openstreetmap.fr/it/map/unical-essentials_112941#16/39.3574/16.2324) - Interactive map
