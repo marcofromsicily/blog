@@ -21,7 +21,7 @@ This quick guide for nomad workers was inspired by [Awesome Linux](https://githu
 * [Incubators](#incubators)
 * [Infrastructures](#infrastructures)
 * [Open Source Communities](#communities)
-* [Events](#events)  
+* [Cultural Events](#events)  
 * [Webcam](#webcam)
 
 ### Transports
@@ -41,7 +41,7 @@ This quick guide for nomad workers was inspired by [Awesome Linux](https://githu
 * [Unesco Arabo Normanna](http://www.unescoarabonormanna.it/) - Information about the World Heritage Sites in Palermo
 * [Teatro Massimo](http://www.teatromassimo.it/) - The biggest Opera House in Italy
 * [Galleria d'Arte Moderna](http://www.gampalermo.it/) - Modern Art Museum
-* [Mondello Beach](http://umap.openstreetmap.fr/it/map/attivita-commerciali-mondello-promondello_157054#15/38.2068/13.3316) - Palermo's beach.
+* [Mondello Beach](http://www.mondellomare.it/) - Palermo's beach. You can choose to visit the beach using one of free paths to the sea or you can pay to enter in areas with services for tourists.
 * [Santuario Santa Rosalia](http://www.santuariosantarosalia.it/) - The sanctuary on the top of "Monte Pellegrino", a mountain that surrounds Palermo
 * [Renzo Barbera Stadium](http://palermocalcio.it/) - Open for match days ONLY
 * [Rinascente](https://www.rinascente.it/) - Italy’s most elegant department store  
@@ -51,26 +51,25 @@ This quick guide for nomad workers was inspired by [Awesome Linux](https://githu
 * [Antica Focacceria San Francesco](http://www.anticafocacceria.it) - Traditional Sicilian Food
 * [Fud Bottega Sicula](http://www.fud.it/) - Modern Sicilian Food
 * [San Lorenzo Mercato](http://www.sanlorenzomercato.it/) - Urban market with Sicilian Food
-
+* [Caffè del Teatro](http://www.caffedelteatromassimo.it/) - Bar inside Teatro Massimo
 
 ### Incubators
 
 * [ARCA](http://www.consorzioarca.it/) - University business incubator
-* [PUSH](http://www.wepush.org/) - Social Innovation lab
-* [Fablab@School](https://www.fablabatschool.it/) - Fablab
 * [Creziplus](https://www.creziplus.it/) - Creative business incubator
 
 ### Infrastructures
 
 * [Open Hub Med](https://www.openhubmed.it/) - Internet Exchange Point and Datacenter
 * [Sicily HUB](http://www.tisparkle.com/default.aspx?idPage=2509) - Internet Exchange Point and Datacenter
-* [Anello Telematico Comunale](https://umap.openstreetmap.fr/it/map/anello-telematico-comunale-palermo_71124#13/38.1381/13.3880) - Municipal broadband
+* [Anello Telematico Comunale](https://umap.openstreetmap.fr/it/map/anello-telematico-comunale-palermo_71124#13/38.1381/13.3880) - Municipal broadband network
 * [Open Fiber](http://openfiber.it/) - Broadband network provider
 
 ### Communities
 
 * [Open Data Sicilia](http://opendatasicilia.it/) - Open Data community
 * [Palermo PHP User Group](http://palermo.grusp.org/) - Palermo PHP User Group
+* [Palermo Wordpress Meetup](https://www.meetup.com/it-IT/Palermo-WordPress-Meetup/) - Palermo Wordpress User Group  
 * [Palermo Python User Group](https://www.facebook.com/groups/pythonuserspalermo/?fref=ts) - Palermo Python User Group
 * [Goolge Developers Group Palermo](https://sites.google.com/site/palermogtug/) - Google Technologies Group
 * [Free Circle](https://www.thefreecircle.org/) - Linux Users Group
@@ -78,11 +77,13 @@ This quick guide for nomad workers was inspired by [Awesome Linux](https://githu
 
 ### Events
 
-* [MANIFESTA](http://m12.manifesta.org/) - The European Biennial of Contemporary Art
 * [Capital of Culture](https://www.comune.palermo.it/capitale-cultura-2018.php) - Palermo 2018 Capital of Culture
-* [Creative Mornings Palermo](https://creativemornings.com/cities/pmo) - Breakfast lecture series for the creative community
-* [WIAD](http://www.wiadpalermo.com/) - World Information Architecture Day
+* [MANIFESTA](http://m12.manifesta.org/) - The European Biennial of Contemporary Art
 * [Le vie dei Tesori](http://www.leviedeitesori.com/) - A festival that promotes the most important Art sites in Palermo,Agrigento, Messina, Caltanissetta, Siracusa
+* [Creative Mornings Palermo](https://creativemornings.com/cities/pmo) - Breakfast lecture series for the creative community
+* [Una Marina di Libri](http://unamarinadilibri.it/) - Book festival
+* [Piano City Palermo](http://www.pianocitypalermo.it/) - Piano festival
+* [WIAD](http://www.wiadpalermo.com/) - World Information Architecture Day
 * [Startup weekend Palermo](http://www.swpalermo.it) - 54-hour weekend event to launch startups
 
 ### Webcam
