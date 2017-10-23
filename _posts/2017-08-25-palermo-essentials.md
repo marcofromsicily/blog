@@ -6,7 +6,7 @@ categories: City Guides
 
 # Palermo Essentials
 
-![Politeama](https://raw.githubusercontent.com/marcofromsicily/blog/master/images/politeama.jpg)
+![Pretoria](https://raw.githubusercontent.com/marcofromsicily/blog/master/images/pretoria.jpg)
 
 "Palermo Essentials" is my collection of links for digital nomads visiting [Palermo](https://www.comune.palermo.it/).
 
@@ -19,10 +19,10 @@ This quick guide for nomad workers was inspired by [Awesome Linux](https://githu
 * [Sightseeing](#sightseeing)
 * [Food](#food)
 * [Incubators](#incubators)
-* [Infrastructures](#infrastructures)
 * [Open Source Communities](#communities)
 * [Cultural Events](#events)  
 * [Webcam](#webcam)
+* [Infrastructures](#infrastructures)
 
 ### Transports
 
@@ -43,6 +43,7 @@ This quick guide for nomad workers was inspired by [Awesome Linux](https://githu
 * [Galleria d'Arte Moderna](http://www.gampalermo.it/) - Modern Art Museum
 * [Mondello Beach](http://www.mondellomare.it/) - Palermo's beach. You can choose to visit the beach using one of free paths to the sea or you can pay to enter in areas with services for tourists.
 * [Santuario Santa Rosalia](http://www.santuariosantarosalia.it/) - The sanctuary on the top of "Monte Pellegrino", a mountain that surrounds Palermo
+* [Teatro Politeama](http://www.orchestrasinfonicasiciliana.it/) - Theatre
 * [Renzo Barbera Stadium](http://palermocalcio.it/) - Open for match days ONLY
 * [Rinascente](https://www.rinascente.it/) - Italy’s most elegant department store  
 
@@ -50,20 +51,14 @@ This quick guide for nomad workers was inspired by [Awesome Linux](https://githu
 
 * [Antica Focacceria San Francesco](http://www.anticafocacceria.it) - Traditional Sicilian Food
 * [Fud Bottega Sicula](http://www.fud.it/) - Modern Sicilian Food
-* [San Lorenzo Mercato](http://www.sanlorenzomercato.it/) - Urban market with Sicilian Food
 * [Caffè del Teatro](http://www.caffedelteatromassimo.it/) - Bar inside Teatro Massimo
+* [San Lorenzo Mercato](http://www.sanlorenzomercato.it/) - Urban market with Sicilian Food
 
 ### Incubators
 
 * [ARCA](http://www.consorzioarca.it/) - University business incubator
 * [Creziplus](https://www.creziplus.it/) - Creative business incubator
 
-### Infrastructures
-
-* [Open Hub Med](https://www.openhubmed.it/) - Internet Exchange Point and Datacenter
-* [Sicily HUB](http://www.tisparkle.com/default.aspx?idPage=2509) - Internet Exchange Point and Datacenter
-* [Anello Telematico Comunale](https://umap.openstreetmap.fr/it/map/anello-telematico-comunale-palermo_71124#13/38.1381/13.3880) - Municipal broadband network
-* [Open Fiber](http://openfiber.it/) - Broadband network provider
 
 ### Communities
 
@@ -90,3 +85,11 @@ This quick guide for nomad workers was inspired by [Awesome Linux](https://githu
 
 * [Cattedrale](https://www.skylinewebcams.com/it/webcam/italia/sicilia/palermo/cattedrale-di-palermo.html)
 * [Mondello](https://www.skylinewebcams.com/it/webcam/italia/sicilia/palermo/spiaggia-mondello.html)
+
+
+### Infrastructures
+
+* [Open Hub Med](https://www.openhubmed.it/) - Internet Exchange Point and Datacenter
+* [Sicily HUB](http://www.tisparkle.com/default.aspx?idPage=2509) - Internet Exchange Point and Datacenter
+* [Anello Telematico Comunale](https://umap.openstreetmap.fr/it/map/anello-telematico-comunale-palermo_71124#13/38.1381/13.3880) - Municipal broadband network
+* [Open Fiber](http://openfiber.it/) - Broadband network provider
