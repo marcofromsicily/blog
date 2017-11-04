@@ -23,6 +23,7 @@ This quick guide for nomad workers was inspired by [Awesome Linux](https://githu
 * [Cultural Events](#events)  
 * [Webcam](#webcam)
 * [Infrastructures](#infrastructures)
+* [Minisites](#minisites)
 
 ### Transports
 
@@ -83,8 +84,7 @@ This quick guide for nomad workers was inspired by [Awesome Linux](https://githu
 
 ### Webcam
 
-* [Cattedrale](https://www.skylinewebcams.com/it/webcam/italia/sicilia/palermo/cattedrale-di-palermo.html)
-* [Mondello](https://www.skylinewebcams.com/it/webcam/italia/sicilia/palermo/spiaggia-mondello.html)
+* [List of Palermo webcams](https://www.skylinewebcams.com/it/webcam/italia/sicilia/palermo.html)
 
 
 ### Infrastructures
@@ -93,3 +93,9 @@ This quick guide for nomad workers was inspired by [Awesome Linux](https://githu
 * [Sicily HUB](http://www.tisparkle.com/default.aspx?idPage=2509) - Internet Exchange Point and Datacenter
 * [Anello Telematico Comunale](https://umap.openstreetmap.fr/it/map/anello-telematico-comunale-palermo_71124#13/38.1381/13.3880) - Municipal broadband network
 * [Open Fiber](http://openfiber.it/) - Broadband network provider
+
+
+### Minisites
+
+* [Seven reasons to move to Palermo](http://www.marcolombardo.com/movetopalermo/)
+* [Palermo in two days](http://www.marcolombardo.com/palermointwodays/)
