@@ -47,8 +47,7 @@ This quick guide for nomad workers was inspired by [Awesome Linux](https://githu
 
 ### Events
 
-* [Digital District](http://www.digitaldistrict.it/) - Tech events calendar
-* [Milano Tech Scene](http://milanotechscene.it/) - Yet another tech events calendar
+* [Milano Tech Scene](http://milanotechscene.it/) - Tech events calendar
 * [Economia Urbana e Lavoro](http://www.lavoroeformazioneincomune.it/) - Social innovation events calendar
 * [Yes Milano](http://www.yesmilano.it/) - International events calendar
 * [Turismo Milano](https://www.turismo.milano.it/) - Cultural events calendar
@@ -72,6 +71,9 @@ This quick guide for nomad workers was inspired by [Awesome Linux](https://githu
 * [Spontini](http://www.pizzeriaspontini.it/) - Pizzeria
 * [Sorbillo](http://www.sorbillo.it/) - Pizzeria
 * [Rinomata Gelateria Artigiana](https://www.tripadvisor.it/Restaurant_Review-g187849-d1782796-Reviews-La_Rinomata_Gelateria-Milan_Lombardy.html) - Creps and Gelati
+* [A' Vucciria](http://www.a-vucciria.com/) - Sicilian street food
+* [Antica Focacceria S. Francesco](http://mobile.anticafocacceria.it/) - Traditional Sicilian food
+
 
 ### Webcam
 
