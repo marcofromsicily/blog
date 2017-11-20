@@ -11,6 +11,8 @@ categories: City Guides
 
 "Rome Essentials" is my collection of essential links for digital nomads visiting [Rome](http://www.comune.roma.it).
 
+I advice to dedicate a screen of your smartphone to bookmarks related to Rome, so you can feel the pulse of the city with a look at your smartphone.
+
 This quick guide for nomad workers was inspired by [Awesome Linux](https://github.com/madbob/awesome-linux-dev).
 
 ## Contents

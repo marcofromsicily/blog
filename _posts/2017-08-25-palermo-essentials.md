@@ -10,6 +10,8 @@ categories: City Guides
 
 "Palermo Essentials" is my collection of links for digital nomads visiting [Palermo](https://www.comune.palermo.it/).
 
+I advice to dedicate a screen of your smartphone to bookmarks related to Palermo, so you can feel the pulse of the city with a look at your smartphone.
+
 This quick guide for nomad workers was inspired by [Awesome Linux](https://github.com/madbob/awesome-linux-dev).
 
 

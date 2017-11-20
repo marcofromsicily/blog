@@ -11,6 +11,8 @@ categories: City Guides
 
 "Unical Essentials" is my collection of essential links for digital nomads visiting [Università della Calabria](http://www.unical.it/).
 
+I advice to dedicate a screen of your smartphone to bookmarks related to Rende, so you can feel the pulse of the city with a look at your smartphone.
+
 This quick guide for nomad workers was inspired by [Awesome Linux](https://github.com/madbob/awesome-linux-dev).
 
 ## Contents
@@ -37,7 +39,7 @@ This quick guide for nomad workers was inspired by [Awesome Linux](https://githu
 
 ### Coworking
 
-* [Talent Garden](https://cosenza.talentgarden.org/) - Tech cowork 
+* [Talent Garden](https://cosenza.talentgarden.org/) - Tech cowork
 
 ### Food
 
