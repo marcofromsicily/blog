@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Evaluating e-residency"
+categories: Freelance
+---
+
 #Evaluating e-residency
 
 ![Talinn](https://upload.wikimedia.org/wikipedia/commons/c/ce/Tallinn_panorama_from_Toompea%2C_July_2008.jpg)
