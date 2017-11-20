@@ -79,7 +79,7 @@ Extra bookmarks dedicated to each city:
 * [Calendar](https://www.google.com/calendar)
 * [Keep](https://www.google.it/keep/)
 * [Drive](https://www.google.com/drive/)
-* [Hangouts](www.google.it/hangouts/)
+* [Hangouts](http://www.google.it/hangouts/)
 * [Linkedin](https://www.linkedin.com/)
 * [Telegram](https://telegram.org/)
 * [Dropbox](https://www.dropbox.com/it/)

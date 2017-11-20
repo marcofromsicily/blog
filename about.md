@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+order: 2
 permalink: /about/
 ---
 
@@ -17,3 +18,5 @@ I am The C.E.O. of [Industria Italiana del Software Libero](http://www.industria
 You will find more about me on my [Linkedin](https://www.linkedin.com/in/marcofromsicily/).
 
 Feel free to [contact me](mailto:mail@marcolombardo.com) for any question.
+
+The contents of my blog are released under the [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.it) license.
