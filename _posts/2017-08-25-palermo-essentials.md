@@ -21,6 +21,7 @@ This quick guide for nomad workers was inspired by [Awesome Linux](https://githu
 * [Sightseeing](#sightseeing)
 * [Food](#food)
 * [Incubators](#incubators)
+* [Coworking](#coworking)
 * [Open Source Communities](#communities)
 * [Cultural Events](#events)  
 * [Webcam](#webcam)
@@ -46,9 +47,9 @@ This quick guide for nomad workers was inspired by [Awesome Linux](https://githu
 * [Galleria d'Arte Moderna](http://www.gampalermo.it/) - Modern Art Museum
 * [Mondello Beach](http://www.mondellomare.it/) - Palermo's beach. You can choose to visit the beach using one of free paths to the sea or you can pay to enter in areas with services for tourists.
 * [Santuario Santa Rosalia](http://www.santuariosantarosalia.it/) - The sanctuary on the top of "Monte Pellegrino", a mountain that surrounds Palermo
-* [Teatro Politeama](http://www.orchestrasinfonicasiciliana.it/) - Theatre
-* [Renzo Barbera Stadium](http://palermocalcio.it/) - Open for match days ONLY
-* [Rinascente](https://www.rinascente.it/) - Italy’s most elegant department store  
+* [Teatro Politeama](http://www.orchestrasinfonicasiciliana.it/) - Theatre located in the main square of the modern city center.
+* [Renzo Barbera Stadium](http://palermocalcio.it/) - Football stadium open on match days ONLY
+* [Rinascente](https://www.rinascente.it/) - Italy’s most elegant department store
 
 ### Food
 
@@ -62,6 +63,10 @@ This quick guide for nomad workers was inspired by [Awesome Linux](https://githu
 * [ARCA](http://www.consorzioarca.it/) - University business incubator
 * [Creziplus](https://www.creziplus.it/) - Creative business incubator
 
+### Coworking
+
+* [Neunoi](http://www.neunoi.it/) - Coworking located in the old city center
+* [Magneti](http://www.magnetico.work/) - Coworking located in the modern city center
 
 ### Communities
 

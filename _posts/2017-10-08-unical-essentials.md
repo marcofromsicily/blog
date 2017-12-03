@@ -43,7 +43,12 @@ This quick guide for nomad workers was inspired by [Awesome Linux](https://githu
 
 ### Food
 
+![Pizzeria Alessandro Rende](https://raw.githubusercontent.com/marcofromsicily/blog/master/images/pizzeria-alessandro-rende.jpg)
+
+Picture courtesy of [@Petruzzo79](https://twitter.com/Petruzzo79)
+
 * [Aumm Aumm](https://www.facebook.com/AummAummPizzeria/) - Pizzeria
+* [Pizzeria Alessandro](https://www.tripadvisor.it/Restaurant_Review-g7849578-d4794297-Reviews-Pizzeria_Alessandro-Arcavacata_Rende_Province_of_Cosenza_Calabria.html) - Pizzeria
 
 ### Map
 
