@@ -87,7 +87,7 @@ This quick guide for nomad workers was inspired by [Awesome Linux](https://githu
 * [Una Marina di Libri](http://unamarinadilibri.it/) - Book festival
 * [Piano City Palermo](http://www.pianocitypalermo.it/) - Piano festival
 * [WIAD](http://www.wiadpalermo.com/) - World Information Architecture Day
-* [Startup weekend Palermo](http://www.swpalermo.it) - 54-hour weekend event to launch startups
+* [Startup weekend Palermo](https://startupweekend.org/) - 54-hour weekend event to launch startups
 
 ### Webcam
 
