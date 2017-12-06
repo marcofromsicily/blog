@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Freelance
+title: Business
 order: 3
 permalink: /business/
 ---
