@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Freelance
+title: Open Source
 order: 4
 permalink: /opensource/
 ---
 
-"Audentes fortuna iuvat" (Virgilio)
+"C'è una cosa più forte di tutti gli eserciti del mondo, e questa è un'idea il cui momento è ormai giunto" (Victor Hugo)
 
 ![Open Source Wall](/images/opensource.jpg)
 
