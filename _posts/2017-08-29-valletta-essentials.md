@@ -35,7 +35,6 @@ This quick guide for nomad workers was inspired by [Awesome Linux](https://githu
 * [MITA Innovation HUB](https://mitainnovationhubcms.gov.mt) - Early ​stage digital startup ecosystem
 * [Malta Chamber](http://www.maltachamber.org.mt/) - Malta Chamber of Commerce
 * [Malta Enterprise](https://www.maltaenterprise.com/) - Malta economic development agency
-* [Silicon Valletta](https://siliconvalletta.com/) - Association of tech enterpreneurs
 
 
 ### Events

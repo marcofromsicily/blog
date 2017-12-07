@@ -30,7 +30,7 @@ This quick guide for nomad workers was inspired by [Awesome Linux](https://githu
 
 ### Transports
 
-* [Castiglione CS Unical](http://www.trenitalia.com/) - Bus station in the nearby of Università della Calabria, connection to the Italian railway network, including trains to Cosenza, Lamezia Terme Airport and Rome Termini.
+* [Castiglione CS Unical](http://www.trenitalia.com/) - Bus station in the nearby of Università della Calabria, connection to the Italian railway network, including trains to Cosenza, Lamezia Terme Airport and Rome Termini
 
 ### Communities
 

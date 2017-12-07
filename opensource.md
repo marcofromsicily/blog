@@ -12,3 +12,5 @@ permalink: /opensource/
 # open source
 
 * [Awesome Open Source](http://www.marcolombardo.com/blog/open/source/2017/09/08/awesome-open-source.html)
+* [Risorse Git](http://www.marcolombardo.com/blog/open/source/2017/08/01/risorse-git.html)
+* [Hardware for open source](http://www.marcolombardo.com/blog/open/source/2017/12/07/hardware-for-open-source.html) 
