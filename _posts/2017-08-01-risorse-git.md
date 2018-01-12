@@ -8,7 +8,7 @@ categories: Open Source
 
 ![Open Source](https://raw.githubusercontent.com/marcofromsicily/blog/master/images/opensource.jpg)
 
-Questo breve post raccoglie una serie di link utili a chi vuole studiare il software per il controllo di versione [Git](https://it.wikipedia.org/wiki/Git_(software))
+Questo breve post raccoglie una serie di link utili a chi vuole studiare il software per il controllo di versione [Git](https://it.wikipedia.org/wiki/Git_(software)).
 
 ## Contenuti
 
@@ -28,7 +28,7 @@ Questo breve post raccoglie una serie di link utili a chi vuole studiare il soft
 
 * [GitHub Desktop](https://desktop.github.com/) - Applicazione Desktop gratuita per gestire il flusso di lavoro in GitHub.
 
-* [Atom](https://atom.io/) - Editor di testo gratuito. Può essere usato per modificare i temi bootsrap come ad esempio il tema "Landing Page".
+* [Atom](https://atom.io/) - Editor di testo libero e gratuito. Può essere usato ad esempio per editare i [temi bootsrap](https://startbootstrap.com/template-categories/all/).
 
 * [Landing Page](https://startbootstrap.com/template-overviews/landing-page/) - Tema bootstrap gratuito e minimale da modificare con Atom e caricare su GitHub Pages per creare il proprio sito web.
 

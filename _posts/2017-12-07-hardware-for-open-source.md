@@ -16,7 +16,7 @@ The collection is released under the [CC BY-SA 3.0 License](https://creativecomm
 
 ## Hardware
 
-* [Intel NUC](https://www.intel.it/content/www/it/it/products/boards-kits/nuc.html) - Mini PC Linux
-* [Udoo Board](https://www.udoo.org/) - Mini PC Android + Linux + Arduino
-* [Raspberry Pi](https://www.raspberrypi.org/) - Mini PC Linux
-* [Arduino](https://www.arduino.cc/) -  Electronic prototyping platform
+* [Intel NUC](https://www.intel.it/content/www/it/it/products/boards-kits/nuc.html) - Mini PC Linux.
+* [Udoo Board](https://www.udoo.org/) - Mini PC Android + Linux + Arduino.
+* [Raspberry Pi](https://www.raspberrypi.org/) - Mini PC Linux.
+* [Arduino](https://www.arduino.cc/) -  Electronic prototyping platform.

@@ -10,7 +10,7 @@ categories: Freelance
 
 This is a short post to evaluate the Estonia e-residency program.
 
-The cover picture is from wikipedia, credits [here](https://it.wikipedia.org/wiki/Tallinn#/media/File:Tallinn_panorama_from_Toompea,_July_2008.jpg)
+The cover picture is from wikipedia, credits [here](https://it.wikipedia.org/wiki/Tallinn#/media/File:Tallinn_panorama_from_Toompea,_July_2008.jpg).
 
 ## Contents
 
@@ -39,7 +39,7 @@ e-residency is not related to citizenship and does not give the right to physica
 * there are [treaties for the avoidance of double taxation](https://ec.europa.eu/taxation_customs/individuals/personal-taxation/treaties-avoidance-double-taxation-concluded-member-states_en) between Estonia and many countries, so e-resident companies should pay taxes only in one country, either Estonia or they home country.
 * e-residents companies can sign contracts and make business under the same Estonian law system.
 * e-residents can open a bank account and operate un €.
-* low bureacracy cost: bank account + business address + accounting cost [around € 100 / month](https://www.leapin.eu/pricing)
+* low bureacracy cost: bank account + business address + accounting cost [around € 100 / month](https://www.leapin.eu/pricing).
 * the Estonian state certifies the identity of all e-residents by collecting their fingerprints.
 * e-residency grants access to the [eIDAS program](https://en.wikipedia.org/wiki/EIDAS).
 * [authentication APIs](https://eid.eesti.ee/index.php/EID_application_guide) can be used by service providers.

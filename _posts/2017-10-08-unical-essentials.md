@@ -26,20 +26,20 @@ This quick guide for nomad workers was inspired by [Awesome Linux](https://githu
 
 ### Accommodation
 
-* [B&B da Rita](https://www.tripadvisor.it/Hotel_Review-g644242-d8126563-Reviews-B_B_da_Rita-Rende_Province_of_Cosenza_Calabria.html) - Bed and Breakfast
+* [B&B da Rita](https://www.tripadvisor.it/Hotel_Review-g644242-d8126563-Reviews-B_B_da_Rita-Rende_Province_of_Cosenza_Calabria.html) - Bed and Breakfast.
 
 ### Transports
 
-* [Castiglione CS Unical](http://www.trenitalia.com/) - Bus station in the nearby of Università della Calabria, connection to the Italian railway network, including trains to Cosenza, Lamezia Terme Airport and Rome Termini
+* [Castiglione CS Unical](http://www.trenitalia.com/) - Bus station in the nearby of Università della Calabria, connection to the Italian railway network, including trains to Cosenza, Lamezia Terme Airport and Rome Termini.
 
 ### Communities
 
-* [Hacklab Cosenza](https://hlcs.it/) - Hackers community
-* [Mozilla Campus Club Cosenza](https://www.facebook.com/MozillaCCC/) - Mozilla Technologies community
+* [Hacklab Cosenza](https://hlcs.it/) - Hackers community.
+* [Mozilla Campus Club Cosenza](https://www.facebook.com/MozillaCCC/) - Mozilla Technologies community.
 
 ### Coworking
 
-* [Talent Garden](https://cosenza.talentgarden.org/) - Tech cowork
+* [Talent Garden](https://cosenza.talentgarden.org/) - Tech cowork.
 
 ### Food
 
@@ -47,9 +47,9 @@ This quick guide for nomad workers was inspired by [Awesome Linux](https://githu
 
 Picture courtesy of [@Petruzzo79](https://twitter.com/Petruzzo79)
 
-* [Aumm Aumm](https://www.facebook.com/AummAummPizzeria/) - Pizzeria
-* [Pizzeria Alessandro](https://www.tripadvisor.it/Restaurant_Review-g7849578-d4794297-Reviews-Pizzeria_Alessandro-Arcavacata_Rende_Province_of_Cosenza_Calabria.html) - Pizzeria
+* [Aumm Aumm](https://www.facebook.com/AummAummPizzeria/) - Pizzeria.
+* [Pizzeria Alessandro](https://www.tripadvisor.it/Restaurant_Review-g7849578-d4794297-Reviews-Pizzeria_Alessandro-Arcavacata_Rende_Province_of_Cosenza_Calabria.html) - Pizzeria.
 
 ### Map
 
-* [Unical Essentials Map](https://umap.openstreetmap.fr/it/map/unical-essentials_112941#16/39.3574/16.2324) - Interactive map
+* [Unical Essentials Map](https://umap.openstreetmap.fr/it/map/unical-essentials_112941#16/39.3574/16.2324) - Interactive map.
