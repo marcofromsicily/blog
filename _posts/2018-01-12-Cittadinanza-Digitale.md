@@ -15,7 +15,7 @@ A parte la banalità di descrivere un oggetto che la maggior parte degli italian
 E' importante quindi che la SIM sia intestata all'utilizzatore dei servizi online, in modo da poter procedere velocemente al blocco della SIM ed alla richiesta di una nuova SIM in caso di furto o smarrimento.
 
 * [Account e-mail](https://www.wikiwand.com/it/Posta_elettronica) - Anche in questo caso, salto la banalità di descrivere cos'è la posta elettronica per sottolineare come anche la casella e-mail sia utilizzata dai servizi online per inviare password, contratti, conferme di pagamento, documenti importanti.
-E' importante quindi che l'e-mail sia ben protetta attivando la [verifica in due passaggi](https://www.google.com/landing/2step/, un sistema di sicurezza che oltre alla password dell'e-mail chieda una seconda password da ricevere via sms o app per poter leggere le e-mail.
+E' importante quindi che l'e-mail sia ben protetta attivando la [verifica in due passaggi](https://www.google.com/landing/2step/), un sistema di sicurezza che oltre alla password dell'e-mail chieda una seconda password da ricevere via sms o app per poter leggere le e-mail.
 Per questo motivo consiglio di attivare una [Gmail](https://www.google.com/intl/it/gmail/about/), l'e-mail di Google oltre ad essere comoda e sicura può essere usata per accedere al proprio smartphone Android.
 
 * [Smartphone](https://www.wikiwand.com/it/Smartphone) - Praticamente qualsiasi smartphone in commercio oggi è idoneo all'utilizzo di servizi online.
@@ -31,8 +31,8 @@ Per richiedere SPID sono sufficienti la carta d'identità, la tessera sanitaria,
 
 
 * [Carta prepagata](https://www.wikiwand.com/it/Carta_prepagata) - Le carte prepagate sono delle semplici carte ricaricabili in contanti o tramite bonifico bancario, come ad esempio la [Postepay Evolution](https://postepay.poste.it/professionisti-imprese/postepay-evolution-business.html) o la carta [Hype](https://www.hype.it/), o qualsiasi altra carta ricaricabile che trovate in banca o in posta.
-Le carte prepagate sono spesso dei circuiti [Visa](https://www.visaitalia.com/carte-per-privati/gamma-di-carte-visa/paga-prima) e [Mastercard](https://www.mastercard.it/it-it/privati/le-carte/carte-prepagate.html) e possono essere utilizzate per fare acquisiti online o per pagare la pubblica amministrazione via [PagoPA](https://teamdigitale.governo.it/it/projects/pagamenti-digitali.htm).
-Le carte prepagate sono sicure perchè le ricaricate solo con l'importo che volete spendere online, inoltre sono dotate di un [Codice di sicurezza](https://www.wikiwand.com/it/Card_Security_Code).
+Le carte prepagate appartengono spesso ai circuiti [Visa](https://www.visaitalia.com/carte-per-privati/gamma-di-carte-visa/paga-prima) e [Mastercard](https://www.mastercard.it/it-it/privati/le-carte/carte-prepagate.html) e possono essere utilizzate per fare acquisiti online o per pagare la pubblica amministrazione via [PagoPA](https://teamdigitale.governo.it/it/projects/pagamenti-digitali.htm).
+Le carte prepagate sono sicure perchè potete ricaricarle anche solo con l'importo che volete spendere online, inoltre sono dotate di un [codice di sicurezza](https://www.wikiwand.com/it/Card_Security_Code) stampato sulla carta.
 Sempre più spesso è richiesto di autorizzare i pagamenti online con una password che viene inviata via sms o con un'app. 
 
 * [App della cittadinanza digitale](https://teamdigitale.governo.it/it/projects/cittadinanza-digitale.htm) - L'app della Cittadinanza Digitale, attualmente non ancora disponibile, permetterà entro il 2018 di ricevere comunicazioni da parte della pubblica amministrazione via smartphone anzichè via posta raccomandata.
