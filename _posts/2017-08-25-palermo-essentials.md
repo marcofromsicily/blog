@@ -80,7 +80,7 @@ This quick guide for nomad workers was inspired by [Awesome Linux](https://githu
 
 ### Events
 
-* [Capital of Culture](https://www.comune.palermo.it/capitale-cultura-2018.php) - Palermo 2018 Capital of Culture.
+* [Capital of Culture](http://www.palermocapitalecultura.it/) - Palermo 2018 Capital of Culture.
 * [MANIFESTA](http://m12.manifesta.org/) - The European Biennial of Contemporary Art.
 * [Le vie dei Tesori](http://www.leviedeitesori.com/) - A festival that promotes the most important Art sites in Palermo,Agrigento, Messina, Caltanissetta, Siracusa.
 * [Creative Mornings Palermo](https://creativemornings.com/cities/pmo) - Breakfast lecture series for the creative community.
