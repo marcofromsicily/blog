@@ -1,8 +1,8 @@
 ---
 layout: page
-title: About
+title: marco
 order: 1
-permalink: /about/
+permalink: /marco/
 ---
 
 ![Marco](/images/marco.jpg)
