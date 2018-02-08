@@ -1,14 +1,11 @@
 ---
 id: 26
 title: Pubblicazioni
-date: 2016-11-08T11:02:31+00:00
 author: admin
 layout: page
 guid: http://www.marcolombardo.com/?page_id=26
-spacious_page_layout:
-  - default_layout
-dojodigital_toggle_title:
-  - 'on'
+order: 3
+permalink: /pubblicazioni/
 ---
 <p style="text-align: center;">
   <img class="alignnone size-medium wp-image-3420" src="https://www.marcofromsicily.com/wp-content/uploads/2016/11/marcofromsicily-300x270.png" alt="" width="300" height="270" srcset="https://www.marcofromsicily.com/wp-content/uploads/2016/11/marcofromsicily-300x270.png 300w, https://www.marcofromsicily.com/wp-content/uploads/2016/11/marcofromsicily.png 431w" sizes="(max-width: 300px) 100vw, 300px" />

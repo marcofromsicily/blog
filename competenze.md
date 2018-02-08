@@ -1,14 +1,10 @@
 ---
 id: 40
 title: Competenze
-date: 2016-11-08T18:19:40+00:00
-author: admin
 layout: page
 guid: http://www.marcolombardo.com/?page_id=40
-spacious_page_layout:
-  - default_layout
-dojodigital_toggle_title:
-  - 'on'
+order: 2
+permalink: /competenze/
 ---
 <img class="size-medium wp-image-3516 aligncenter" src="https://www.marcofromsicily.com/wp-content/uploads/2018/01/10366026_10152725013770999_1795809042664041579_n-232x300.jpg" alt="" width="232" height="300" srcset="https://www.marcofromsicily.com/wp-content/uploads/2018/01/10366026_10152725013770999_1795809042664041579_n-232x300.jpg 232w, https://www.marcofromsicily.com/wp-content/uploads/2018/01/10366026_10152725013770999_1795809042664041579_n.jpg 545w" sizes="(max-width: 232px) 100vw, 232px" />
 

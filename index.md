@@ -4,3 +4,15 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
+
+![Marco Lombardo](https://raw.githubusercontent.com/marcofromsicily/blog/master/images/marco.jpg)
+
+Ciao, sono [Marco Lombardo](http://www.marcolombardo.com/), consulente per il Marketing e l’Open Source.
+
+Sono il fondatore dell’associazione [Industria Italiana del Software Libero](https://www.industriasoftwarelibero.it/), che connette i professionisti e le aziende del software libero in Italia.
+
+Nel 2013 ho conseguito la laurea magistrale in Scienze Economico Aziendali presso l’università di [Milano Bicocca](https://www.unimib.it/), con una tesi sulle [risorse umane ed il Web 3.0](https://www.slideshare.net/marcofromsicily/le-risorse-umane-ed-il-web-30-nelle-associazioni-dimpresa) nelle associazioni d’impresa.
+
+Nel 2010, con una tesi sul [contributo del software libero allo sviluppo dei sistemi informativi aziendali](https://www.slideshare.net/marcofromsicily/tesi-11786785?related=1), ho conseguito la laurea in Economia Aziendale presso l’[Università di Palermo](http://www.unipa.it/), con un semestre di studio Erasmus al [Waterford Institute of Technology](https://www.wit.ie/) nel 2007.
+
+Il mio cv social  è su [Linkedin](Il mio cv social  è su Linkedin.).
