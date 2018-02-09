@@ -1,12 +1,11 @@
 ---
-id: 40
 title: Competenze
 layout: page
-guid: http://www.marcolombardo.com/?page_id=40
 order: 2
 permalink: /competenze/
 ---
-<img class="size-medium wp-image-3516 aligncenter" src="https://www.marcofromsicily.com/wp-content/uploads/2018/01/10366026_10152725013770999_1795809042664041579_n-232x300.jpg" alt="" width="232" height="300" srcset="https://www.marcofromsicily.com/wp-content/uploads/2018/01/10366026_10152725013770999_1795809042664041579_n-232x300.jpg 232w, https://www.marcofromsicily.com/wp-content/uploads/2018/01/10366026_10152725013770999_1795809042664041579_n.jpg 545w" sizes="(max-width: 232px) 100vw, 232px" />
+
+![Marco Lombardo](https://raw.githubusercontent.com/marcofromsicily/blog/master/images/marco-business.jpg)
 
 <p style="text-align: center;">
   Come tutte le persone, qualche anno prima di finire l&#8217;università ho iniziato a guardarmi intorno e vedere che prospettive lavorative potessero esserci.
@@ -52,9 +51,7 @@ permalink: /competenze/
   Più o meno in mezzo a quesi oceani rossi sono andato a posizionare le mie competenze, in modo da offrire qualcosa di nuovo.
 </p>
 
-<p style="text-align: center;">
-  <img class="alignnone wp-image-3437 size-large" src="https://www.marcofromsicily.com/wp-content/uploads/2016/11/bluocean-1024x768.jpg" alt="" width="1024" height="768" srcset="https://www.marcofromsicily.com/wp-content/uploads/2016/11/bluocean-1024x768.jpg 1024w, https://www.marcofromsicily.com/wp-content/uploads/2016/11/bluocean-300x225.jpg 300w, https://www.marcofromsicily.com/wp-content/uploads/2016/11/bluocean-768x576.jpg 768w, https://www.marcofromsicily.com/wp-content/uploads/2016/11/bluocean-1200x900.jpg 1200w, https://www.marcofromsicily.com/wp-content/uploads/2016/11/bluocean.jpg 1411w" sizes="(max-width: 1024px) 100vw, 1024px" />
-</p>
+![blue-ocean](https://raw.githubusercontent.com/marcofromsicily/blog/master/images/blueocean.jpg)
 
 <p style="text-align: center;">
   La dimensione dei cerchi rappresentava l&#8217;ampiezza delle mie competenze nel mercato, la vicinanza/lontananza dei cerchi dal mio nome raffigura il bilanciamento operativo / strategico delle mie competenze.
