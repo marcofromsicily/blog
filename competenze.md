@@ -7,21 +7,16 @@ permalink: /competenze/
 
 ![Marco Lombardo](https://raw.githubusercontent.com/marcofromsicily/blog/master/images/marco-business.jpg)
 
-<p style="text-align: center;">
-  Come tutte le persone, qualche anno prima di finire l&#8217;università ho iniziato a guardarmi intorno e vedere che prospettive lavorative potessero esserci.
-</p>
 
-<p style="text-align: center;">
-  Da appassionato di <span style="text-decoration: underline;"><a style="text-decoration: underline;" href="http://www.businessinformatics.it/wordpress/personal-branding/">personal branding</a></span>, un ramo del marketing che studia come una persona dovrebbe comunicare al meglio le proprie competenze, ho pensato di estendere il ragionamento di marketing oltre la comunicazione, provando a gestire in maniera &#8220;strategica&#8221; le mie reali competenze, ancora prima che la loro pubblicizzazione.
-</p>
+Come tutte le persone, qualche anno prima di finire l&#8217;università ho iniziato a guardarmi intorno e vedere che prospettive lavorative potessero esserci.
 
-<p style="text-align: center;">
-  Per fare ciò mi sono basato su <span style="text-decoration: underline;"><span style="text-decoration: underline;"><a style="text-decoration: underline;" href="http://www.businessinformatics.it/wordpress/oceano-blu/">Strategia Oceano Blu</a></span></span>, un libro che illustra come &#8220;vincere senza competere&#8221; distinguendo tra &#8220;oceani rossi della concorrenza&#8221; (mercati dove tante aziende vendono prodotti molto simili a clienti molto simili, competendo a colpi di ribasso sui prezzi) e &#8220;oceani blu&#8221; (mercati creati aggregando caratteristiche provenienti da diversi oceani rossi per creare un prodotto nuovo, da offrire a clienti che hanno esigenze trasversali a quelle di tanti oceani rossi).
-</p>
 
-<p style="text-align: center;">
-  Ho quindi listato gli oceani rossi che mi sono trovato di fronte dopo la laurea:
-</p>
+Da appassionato di [personal branding], un ramo del marketing che studia come una persona dovrebbe comunicare al meglio le proprie competenze, ho pensato di estendere il ragionamento di marketing oltre la comunicazione, provando a gestire in maniera &#8220;strategica&#8221; le mie reali competenze, ancora prima che la loro pubblicizzazione.
+
+
+Per fare ciò mi sono basato su "Strategia Oceano Blu", un libro che illustra come &#8220;vincere senza competere&#8221; distinguendo tra &#8220;oceani rossi della concorrenza&#8221; (mercati dove tante aziende vendono prodotti molto simili a clienti molto simili, competendo a colpi di ribasso sui prezzi) e &#8220;oceani blu&#8221; (mercati creati aggregando caratteristiche provenienti da diversi oceani rossi per creare un prodotto nuovo, da offrire a clienti che hanno esigenze trasversali a quelle di tanti oceani rossi).
+
+Ho quindi listato gli oceani rossi che mi sono trovato di fronte dopo la laurea:
 
 <ul style="text-align: center;">
   <li>
@@ -51,19 +46,11 @@ permalink: /competenze/
   Più o meno in mezzo a quesi oceani rossi sono andato a posizionare le mie competenze, in modo da offrire qualcosa di nuovo.
 </p>
 
-![blue-ocean](https://raw.githubusercontent.com/marcofromsicily/blog/master/images/blueocean.jpg)
+![blue-ocean](https://raw.githubusercontent.com/marcofromsicily/blog/master/images/bluocean.jpg)
 
-<p style="text-align: center;">
-  La dimensione dei cerchi rappresentava l&#8217;ampiezza delle mie competenze nel mercato, la vicinanza/lontananza dei cerchi dal mio nome raffigura il bilanciamento operativo / strategico delle mie competenze.
-</p>
+La dimensione dei cerchi rappresentava l&#8217;ampiezza delle mie competenze nel mercato, la vicinanza/lontananza dei cerchi dal mio nome raffigura il bilanciamento operativo / strategico delle mie competenze.
 
-<p style="text-align: center;">
-  <strong>La necessità di una rete</strong>
-</p>
-
-<p style="text-align: center;">
-  Per sviluppare le mie competenze mi sono impegnato nel mondo dlel&#8217;associazionismo professionale:
-</p>
+Per sviluppare le mie competenze mi sono impegnato nel mondo dlel&#8217;associazionismo professionale:
 
 <li style="text-align: center;">
   Dal 2014 al 2016 sono stato membro del direttivo del <span style="text-decoration: underline;"><span style="text-decoration: underline;"><a style="text-decoration: underline;" href="http://www.qualitaonline.it/category/comitati/qualita-del-software/" target="_blank" rel="noopener noreferrer">Comitato per la Qualità del Software</a></span></span> dove ho contrbuito ad organizzare il <span style="text-decoration: underline;"><span style="text-decoration: underline;"><a style="text-decoration: underline;" href="http://www.slideshare.net/marcofromsicily/cloud-per-le-pmi-e-linnovazione-sociale-59082740" target="_blank" rel="noopener noreferrer">Forum sulla Qualità del Software del 02 Luglio 2015 a Milano</a></span></span>.
