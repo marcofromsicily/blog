@@ -6,7 +6,7 @@ categories: City Guides
 
 # Palermo Essentials
 
-![Pretoria](https://raw.githubusercontent.com/marcofromsicily/blog/master/images/pretoria.jpg)
+![Politeama](https://raw.githubusercontent.com/marcofromsicily/blog/master/images/politeama.jpg)
 
 "Palermo Essentials" is my collection of links for digital nomads visiting [Palermo](https://www.comune.palermo.it/).
 
