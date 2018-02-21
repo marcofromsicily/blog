@@ -1,20 +1,17 @@
 ---
-id: 3328
 title: 'Terzo Forum Industria Italiana del Software Libero #forumiisl'
-date: 2016-10-12T11:36:20+00:00
-author: admin
+date: 2016-10-12
 layout: post
-guid: http://www.businessinformatics.it/wordpress/?p=3328
 permalink: /2016/10/12/terzo-forum-dellindustria-italiana-del-software-libero-forumiisl-2/
 categories:
   - Businessinformatics
   - Eventi
-  - Uncategorized
 tags:
   - Industria Italiana del Software Libero
   - Napoli
 ---
-<img class="aligncenter wp-image-3443 size-full" src="https://www.marcofromsicily.com/wp-content/uploads/2016/10/facebookcover-768x409.jpg" alt="" width="768" height="409" srcset="https://www.marcofromsicily.com/wp-content/uploads/2016/10/facebookcover-768x409.jpg 768w, https://www.marcofromsicily.com/wp-content/uploads/2016/10/facebookcover-768x409-300x160.jpg 300w" sizes="(max-width: 768px) 100vw, 768px" />
+
+![Copertina Terzo Forum Industria Italiana Software Libero](https://raw.githubusercontent.com/marcofromsicily/blog/master/images/terzoforumcopertina.jpg)
 
 <p style="text-align: center;">
   <strong>Ho partecipato come<a href="https://www.businessinformatics.it"> Businessinformatics</a>  al <a href="http://www.industriasoftwarelibero.it/resoconto-terzo-forum-dellindustria-italiana-del-software-libero-forumiisl/" target="_blank" rel="noopener noreferrer">Terzo #forumiisl</a>, che si è svolto Mercoledì 16 Novembre 2016 presso il Palazzo delle Arti di via dei Mille 60 a Napoli, con il seguente programma:</strong>
@@ -76,9 +73,9 @@ tags:
   17:40 – Tavola Rotonda “La trasformazione digitale, libertà diritti e opportunità di business” – Bruno Esposito (<a href="https://it.linkedin.com/in/bruno-esposito-b68487" target="_blank" rel="noopener noreferrer">MG Marketing & Governance</a>)
 </p>
 
-<p style="text-align: center;">
-  <img class="alignnone wp-image-3444 size-large" src="https://www.marcofromsicily.com/wp-content/uploads/2016/10/industrianapoli-1024x768.jpg" alt="" width="1024" height="768" srcset="https://www.marcofromsicily.com/wp-content/uploads/2016/10/industrianapoli-1024x768.jpg 1024w, https://www.marcofromsicily.com/wp-content/uploads/2016/10/industrianapoli-300x225.jpg 300w, https://www.marcofromsicily.com/wp-content/uploads/2016/10/industrianapoli-768x576.jpg 768w, https://www.marcofromsicily.com/wp-content/uploads/2016/10/industrianapoli-1200x900.jpg 1200w, https://www.marcofromsicily.com/wp-content/uploads/2016/10/industrianapoli.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" />
-</p>
+
+![Gruppo Terzo Forum](https://raw.githubusercontent.com/marcofromsicily/blog/master/images/terzoforumgruppo.jpg)
+
 
 <p style="text-align: center;">
   <a href="https://www.slideshare.net/marcofromsicily/applicazioni-cloud-per-aziende-agili" target="_blank" rel="noopener noreferrer"><strong>Le slide dal titolo &#8220;Applicazioni Cloud per Aziende Agili&#8221; sono disponibili cliccando qui.</strong></a>
