@@ -1,10 +1,7 @@
 ---
-id: 1233
 title: Software Gestionali Open Source per le PMI
-date: 2013-11-29T22:38:10+00:00
-author: admin
+date: 2013-11-29
 layout: post
-guid: http://businessinformatics.altervista.org/blog/?p=1233
 permalink: /2013/11/29/software-gestionali-open-source-per-le-pmi/
 image:
   - ""
@@ -25,9 +22,7 @@ tags:
   <strong>Software Gestionali </strong><strong>Open Source per le PMI</strong>
 </p>
 
-<p style="text-align: center;">
-  <img class="alignnone size-medium wp-image-3430" src="https://www.marcofromsicily.com/wp/wp-content/uploads/2013/11/marcoaicq-300x200.jpg" alt="" width="300" height="200" srcset="https://www.marcofromsicily.com/wp-content/uploads/2013/11/marcoaicq-300x200.jpg 300w, https://www.marcofromsicily.com/wp-content/uploads/2013/11/marcoaicq.jpg 700w" sizes="(max-width: 300px) 100vw, 300px" />
-</p>
+![Marco AICQ](https://raw.githubusercontent.com/marcofromsicily/blog/master/images/marcoaicq.jpg)
 
 <p style="text-align: center;">
   Il seminario ha avuto l&#8217;obiettivo di presentare le ultime novità sul tema dell&#8217;informatica aziendale, dove le nuove tecnologie del cloud computing e del software libero hanno reso possibile l&#8217;adozione anche da parte delle piccole imprese di soluzioni per la gestione integrata del business.

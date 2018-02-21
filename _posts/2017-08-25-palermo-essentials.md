@@ -17,6 +17,7 @@ This quick guide for nomad workers was inspired by [Awesome Linux](https://githu
 
 ## Contents
 
+* [Accommodations](#accommodations)
 * [Transports](#transports)
 * [Sightseeing](#sightseeing)
 * [Food](#food)
@@ -27,6 +28,13 @@ This quick guide for nomad workers was inspired by [Awesome Linux](https://githu
 * [Webcam](#webcam)
 * [Infrastructures](#infrastructures)
 * [Minisites](#minisites)
+
+
+
+### Accommodations
+
+* [Airbnb](https://www.airbnb.it/) - The city of Palermo [has an agreement with Airbnb](https://www.comune.palermo.it/noticext.php?id=17283) for promoting tourism.
+* [Booking](https://www.booking.com/) - A widely used hotel booking website. 
 
 ### Transports
 
