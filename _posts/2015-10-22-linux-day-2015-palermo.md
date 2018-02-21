@@ -18,10 +18,7 @@ tags:
 
 ![Linux Day 2015 Palermo programma](https://raw.githubusercontent.com/marcofromsicily/blog/master/images/linuxdaypalermo2015.jpg)
 
-
-<p style="text-align: center;">
-  Sabato 24 ottobre 2015 all&#8217;<a href="http://www.unipa.it/" target="_blank" rel="noopener noreferrer">Università di Palermo</a> durante il <a href="http://www.linuxday.it/" target="_blank" rel="noopener noreferrer">Linux Day</a> 2015 ho tenuto un <a href="http://www.slideshare.net/marcofromsicily/applicazioni-aziendali-in-cloud" target="_blank" rel="noopener noreferrer">Talk sulle applicazioni aziendali in Cloud</a>!
-</p>
+Sabato 24 ottobre 2015 all’Università di Palermo durante il Linux Day 2015 ho tenuto un Talk sulle [applicazioni aziendali in Cloud](https://www.slideshare.net/marcofromsicily/applicazioni-aziendali-in-cloud)!
 
 ![Linux Day 2015 Palermo Talk](https://raw.githubusercontent.com/marcofromsicily/blog/master/images/linuxday2015.jpg)
 

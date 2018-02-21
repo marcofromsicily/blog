@@ -29,14 +29,6 @@ tags:
 ![Primo forum industria italiana del software libero](https://raw.githubusercontent.com/marcofromsicily/blog/master/images/primoforum.jpg)
 
 
-<p style="text-align: center;">
-  Venerdì 8 Maggio 2015 dalle ore 9.00 alle ore 18.00, ho organizzato il <a href="http://www.industriasoftwarelibero.it/resoconto-del-nostro-primo-forum-di-maggio-2015/" target="_blank" rel="noopener">primo forum dell&#8217;Industria del Software Libero</a>  presso l&#8217;incubatore d&#8217;imprese i-Lab della Luiss, in via Tommaso Salvini 2 Roma.
-</p>
+Venerdì 8 Maggio 2015 dalle ore 9.00 alle ore 18.00, ho organizzato il [primo forum dell’Industria del Software Libero](https://www.industriasoftwarelibero.it/resoconto-del-nostro-primo-forum-di-maggio-2015/)  presso l’incubatore d’imprese i-Lab della Luiss, in via Tommaso Salvini 2 Roma.
 
-<p style="text-align: center;">
-  I resoconti degli interventi della giornata, <a href="http://www.industriasoftwarelibero.it/lindustria-italiana-del-software-libero/" target="_blank" rel="noopener">incluso il mio</a>, <a href="http://www.industriasoftwarelibero.it/resoconti/" target="_blank" rel="noopener">sono disponibili sul sito</a> dell&#8217;Industria Italiana del Software Libero.
-</p>
-
-<p style="text-align: center;">
-  <!--:-->
-</p>
+I resoconti degli interventi della giornata, [incluso il mio](https://www.industriasoftwarelibero.it/lindustria-italiana-del-software-libero/), sono disponibili [sul sito](https://www.industriasoftwarelibero.it/resoconti/) dell’Industria Italiana del Software Libero. 
