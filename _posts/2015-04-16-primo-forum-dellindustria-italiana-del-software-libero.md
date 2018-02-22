@@ -31,4 +31,4 @@ tags:
 
 Venerdì 8 Maggio 2015 dalle ore 9.00 alle ore 18.00, ho organizzato il [primo forum dell’Industria del Software Libero](https://www.industriasoftwarelibero.it/resoconto-del-nostro-primo-forum-di-maggio-2015/)  presso l’incubatore d’imprese i-Lab della Luiss, in via Tommaso Salvini 2 Roma.
 
-I resoconti degli interventi della giornata, [incluso il mio](https://www.industriasoftwarelibero.it/lindustria-italiana-del-software-libero/), sono disponibili [sul sito](https://www.industriasoftwarelibero.it/resoconti/) dell’Industria Italiana del Software Libero. 
+I resoconti degli interventi della giornata, [incluso il mio](https://www.industriasoftwarelibero.it/lindustria-italiana-del-software-libero/), sono disponibili [sul sito](https://www.industriasoftwarelibero.it/resoconti/) dell’Industria Italiana del Software Libero.

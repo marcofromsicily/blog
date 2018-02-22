@@ -34,7 +34,7 @@ This quick guide for nomad workers was inspired by [Awesome Linux](https://githu
 ### Accommodations
 
 * [Airbnb](https://www.airbnb.it/) - The city of Palermo [has an agreement with Airbnb](https://www.comune.palermo.it/noticext.php?id=17283) for promoting tourism.
-* [Booking](https://www.booking.com/) - A widely used hotel booking website. 
+* [Booking](https://www.booking.com/) - A widely used hotel booking website.
 
 ### Transports
 
@@ -64,6 +64,7 @@ This quick guide for nomad workers was inspired by [Awesome Linux](https://githu
 * [Antica Focacceria San Francesco](http://mobile.anticafocacceria.it) - Traditional Sicilian Food.
 * [Fud Bottega Sicula](http://www.fud.it/) - Modern Sicilian Food.
 * [Caffè del Teatro](http://www.caffedelteatromassimo.it/) - Bar inside Teatro Massimo.
+* [Ballarak](https://www.facebook.com/ballarak/) - Brewery
 * [San Lorenzo Mercato](http://www.sanlorenzomercato.it/) - Urban market with Sicilian Food.
 
 ### Incubators

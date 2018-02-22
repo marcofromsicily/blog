@@ -16,6 +16,7 @@ The collection is released under the [CC BY-SA 3.0 License](https://creativecomm
 
 ## Hardware
 
+* [Dell  Notebook XPS 13](http://www.dell.com/it/p/xps-13-9370-laptop/pd) - Ubuntu Laptop.
 * [Intel NUC](https://www.intel.it/content/www/it/it/products/boards-kits/nuc.html) - Mini PC Linux.
 * [Udoo Board](https://www.udoo.org/) - Mini PC Android + Linux + Arduino.
 * [Raspberry Pi](https://www.raspberrypi.org/) - Mini PC Linux.

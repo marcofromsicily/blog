@@ -26,3 +26,5 @@ categories: lifestyle
 
 
 P.S. se avete già un televisore con Android tv, tipo un Samsung o un Philips ultimo modello, non vi serve la Fire tv stick, vi basta comprare un gamepad per Android.
+
+Nota: questo post è stato scritto a Gennaio 2018, i prezzi potrebbero subire variazioni in qualsiasi momento.
