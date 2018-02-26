@@ -43,66 +43,65 @@ tags:
 
 ![Chat bot](https://raw.githubusercontent.com/marcofromsicily/blog/master/images/chatbotbis.jpg)
 
-
 <p style="text-align: center;">
   <p style="text-align: center;">
     Successivamente clicchiamo su &#8216;<span style="color: #993366;">Crea comando</span>&#8216;
-  </p>
+</p>
 
-  ![Chat bot](https://raw.githubusercontent.com/marcofromsicily/blog/master/images/chatbotbisuno.jpg)
+![Chat bot](https://raw.githubusercontent.com/marcofromsicily/blog/master/images/chatbotbisuno.jpg)
 
 
-  <p style="text-align: center;">
+<p style="text-align: center;">
     A questo punto digitiamo il nome del comando, preceduto dal simbolo &#8216;<span style="color: #993366;">/</span>&#8216;.
-  </p>
+</p>
 
-  <p style="text-align: center;">
+<p style="text-align: center;">
     Ad esempio, se vogliamo creare un comando che mostra all&#8217;utente un video del Comune di Lago (CS), chiamiamo il comando &#8216;<span style="color: #993366;">/lago&#8217;</span>
-  </p>
+</p>
 
-  ![Chat bot](https://raw.githubusercontent.com/marcofromsicily/blog/master/images/chatbotbisdue.jpg)
+![Chat bot](https://raw.githubusercontent.com/marcofromsicily/blog/master/images/chatbotbisdue.jpg)
 
 
-  <p style="text-align: center;">
+<p style="text-align: center;">
     <p style="text-align: center;">
       Il bot ci chiederà di inserire la risposta che deve comparire all&#8217;utente tutte le volte che digita il comando &#8216;<span style="color: #993366;">/lago</span>&#8216;.
-    </p>
+</p>
 
-    <p style="text-align: center;">
+<p style="text-align: center;">
       Digitiamo la risposta, ad esempio &#8216;<span style="color: #993366;">Guarda questo video di Lago (CS)</span>&#8216;.
-    </p>
+</p>
 
-    <p style="text-align: center;">
+<p style="text-align: center;">
       Se vogliamo, nella risposta, possiamo inserire un link, ad esempio ad un video Youtube oppure ad una Mappa.
-    </p>
+</p>
 
-    <p style="text-align: center;">
+<p style="text-align: center;">
       Premiamo &#8216;<span style="color: #993366;">invio</span>&#8216; sulla nostra tastiera.
-    </p>
+</p>
 
-    ![Chat bot](https://raw.githubusercontent.com/marcofromsicily/blog/master/images/chatbotbistre.jpg)
+![Chat bot](https://raw.githubusercontent.com/marcofromsicily/blog/master/images/chatbotbistre.jpg)
 
 
-    <p style="text-align: center;">
+<p style="text-align: center;">
       Adesso premiamo il tasto &#8216;<span style="color: #993366;">Salva</span>&#8216; nel menù del bot.
-    </p>
+</p>
 
-    ![Chat bot](https://raw.githubusercontent.com/marcofromsicily/blog/master/images/chatbotbisquattro.jpg)
+![Chat bot](https://raw.githubusercontent.com/marcofromsicily/blog/master/images/chatbotbisquattro.jpg)
 
 
-    <p style="text-align: center;">
+<p style="text-align: center;">
       Torniamo indietro al menù principale del bot, cliccando sul tasto &#8216;<span style="color: #993366;">Torna indietro</span>&#8216;.
-    </p>
+</p>
 
-    ![Chat bot](https://raw.githubusercontent.com/marcofromsicily/blog/master/images/chatbotbiscinque.jpg)
+![Chat bot](https://raw.githubusercontent.com/marcofromsicily/blog/master/images/chatbotbiscinque.jpg)
 
 
-      <p style="text-align: center;">
+<p style="text-align: center;">
         Il bot è pronto ad eseguire il nostro comando tutte le volte che lo digitiamo.
-      </p>
+</p>
 
-      <p style="text-align: center;">
+<p style="text-align: center;">
         Non dimenticate di anteporre il simbolo&#8217;<span style="color: #993366;">/</span>&#8216; quando digitate il comando.
-      </p>
+</p>
 
-      ![Chat bot](https://raw.githubusercontent.com/marcofromsicily/blog/master/images/chatbotbissei.jpg)
+![Chat bot](https://raw.githubusercontent.com/marcofromsicily/blog/master/images/chatbotbissei.jpg)
