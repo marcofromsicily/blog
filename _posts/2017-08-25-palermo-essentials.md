@@ -50,7 +50,7 @@ This quick guide for nomad workers was inspired by [Awesome Linux](https://githu
 
 ### Sightseeing
 
-* [Unesco Arabo Normanna](http://www.unescoarabonormanna.it/) - Information about the World Heritage Sites in Palermo.
+* [Unesco Arabo Normanna](http://arabonormannaunesco.it/) - Information about the World Heritage Sites in Palermo.
 * [Teatro Massimo](http://www.teatromassimo.it/) - The biggest Opera House in Italy.
 * [Galleria d'Arte Moderna](http://www.gampalermo.it/) - Modern Art Museum.
 * [Mondello Beach](http://www.mondellomare.it/) - Palermo's beach. You can choose to visit the beach using one of free paths to the sea or you can pay to enter in areas with services for tourists.
