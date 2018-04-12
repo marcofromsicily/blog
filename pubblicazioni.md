@@ -34,6 +34,10 @@ permalink: /pubblicazioni/
 
 &nbsp;
 
+  * <a href="https://www.youtube.com/watch?v=M2jHpMsv66k" target="_blank" rel="noopener">Intervista durante il Merge-it di Torino del 24/03/2018 sull'Industria Italiana del Software Libero.</a>
+
+&nbsp;
+
 <ul style="text-align: center;">
   <li>
     <strong>Interventi su altri blog:</strong>
