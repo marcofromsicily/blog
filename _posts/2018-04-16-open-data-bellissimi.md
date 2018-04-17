@@ -70,7 +70,7 @@ Le linee guida descrivono l'organizzazione interna al Comune che si occupa della
 
 Le linee guida sono pubblicate sul [Read the docs](http://documenti-comune-palermo.readthedocs.io/it/latest/) del Comune e su [repository GitHub](https://github.com/cirospat/linee-guida-open-data-comune-palermo/blob/master/index.rst), due formati per la visualizzazione interattiva e moderna dei documenti.
 
-* Il [Portale Open Data Comune di Palermo](https://opendata.comune.palermo.it/) realizzato secondo le linee guida nazionali di [design dei siti della pubblica amministrazione](https://designers.italia.it/), permette la segnalazione tramite l'account [GitHub del Comune](https://github.com/ComuneDiPalermo/PortaleOpendata) di eventuali problemi di visualizzazione o di elementi non aderenti agli standard.
+* Il [Portale Open Data Comune di Palermo](https://opendata.comune.palermo.it/), realizzato secondo le linee guida nazionali di [design dei siti della pubblica amministrazione](https://designers.italia.it/), permette la segnalazione tramite l'account [GitHub del Comune](https://github.com/ComuneDiPalermo/PortaleOpendata) di eventuali problemi di visualizzazione o di elementi non aderenti agli standard.
 
 
 ### Trasporti
