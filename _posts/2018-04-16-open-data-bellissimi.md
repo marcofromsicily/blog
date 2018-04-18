@@ -18,6 +18,8 @@ In questo post ho intenzione di raccogliere tutte le cose bellissime che ho vist
 * [Turismo](#turismo)
 
 
+![Cultura digitale](https://raw.githubusercontent.com/marcofromsicily/blog/master/images/digitale.jpg)
+
 ### Cultura
 
 La comunità open data, nascendo circa trenta anni dopo la comunità open source, ha una cultura dell'informatica "nativamente" improntata alle architetture informatiche moderne come il cloud computing, il mobile e l'IoT, ecco alcuni esempi:
@@ -61,6 +63,8 @@ Tutti i siti della comunità sono realizzati secondo il paradigma del "mobile fi
 Questo ad esempio è il [sito internet del raduno del 2016 a Messina](https://github.com/SiciliaHub/ods16).
 
 
+![Pubblica amministrazione](https://raw.githubusercontent.com/marcofromsicily/blog/master/images/italia.jpg)
+
 ### Amministrazione
 
 Dopo qualche anno di attivismo della comunità, la cultura open data è riuscita ad entrare nelle pubbliche amministrazioni, ecco due esempi:
@@ -72,6 +76,9 @@ Le linee guida sono pubblicate sul [Read the docs](http://documenti-comune-paler
 
 * Il [Portale Open Data Comune di Palermo](https://opendata.comune.palermo.it/), realizzato secondo le linee guida nazionali di [design dei siti della pubblica amministrazione](https://designers.italia.it/), permette la segnalazione tramite l'account [GitHub del Comune](https://github.com/ComuneDiPalermo/PortaleOpendata) di eventuali problemi di visualizzazione o di elementi non aderenti agli standard.
 
+
+
+![Trasporti](https://raw.githubusercontent.com/marcofromsicily/blog/master/images/trasporti.jpg)
 
 ### Trasporti
 
@@ -86,6 +93,9 @@ La comunità open data può inoltre realizzare delle [mappe del trasporto pubbli
 * Il Comune di Palermo realizza un GeoRSS con le [notizie di interesse generale per la città](https://www.comune.palermo.it/feed/rss.xml) ed un GeoRSS con le notizie sulla [mobilità e sul traffico](https://www.comune.palermo.it/feed/rss_pm.xml).
 
 Il [GeoRSS](https://www.wikiwand.com/it/GeoRSS) è un formato di file che permette la rappresentazione di informazioni geografiche tramite un feed RSS, per cui ad esempio è possibile realizzare ed una [mappa in real time degli eventi e delle notizie di Palermo ](https://rawgit.com/aborruso/e40a5ae873d33e690dc9a33f58c557bb/raw/a9b2f9a44f2eb92105ed808cf63f5e4aa2dadae7/georssPA.html) ed una [mappa in real time degli avvisi sulla mobilità della città di Palermo](http://umap.openstreetmap.fr/it/map/avvisi-della-polizia-municipale-sulla-mobilita-a-p_135416#13/38.1518/13.3547).
+
+
+![Turismo](https://raw.githubusercontent.com/marcofromsicily/blog/master/images/turismo.jpg)
 
 ### Turismo  
 
