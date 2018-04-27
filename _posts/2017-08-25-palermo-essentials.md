@@ -97,6 +97,7 @@ This quick guide for nomad workers was inspired by [Awesome Linux](https://githu
 * [Piano City Palermo](http://www.pianocitypalermo.it/) - Piano festival.
 * [WIAD](http://www.wiadpalermo.com/) - World Information Architecture Day.
 * [Startup weekend Palermo](https://startupweekend.org/) - 54-hour weekend event to launch startups.
+* [La Domenica Favorita](http://www.ladomenicafavorita.com/) - An event to discover the biggest park of Palermo.
 
 ### Webcam
 
