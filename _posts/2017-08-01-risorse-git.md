@@ -22,6 +22,8 @@ Questo breve post raccoglie una serie di link utili a chi vuole studiare il soft
 
 * [Using the GitHub Desktop App](https://www.youtube.com/watch?v=BKr8lbx3uFY) - Video Youtube in inglese sull'App Desktop di GitHub.
 
+* [Version Control with Git](https://eu.udacity.com/course/version-control-with-git--ud123) - Un corso gratuito sull'utilizzo di Git.
+
 * [Crea il tuo Primo Repository su GitHub](https://www.youtube.com/watch?v=LawblmoaBI0) - Video Youtube in italiano su GitHub.
 
 ### Software

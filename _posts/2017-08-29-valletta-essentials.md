@@ -27,7 +27,7 @@ This quick guide for nomad workers was inspired by [Awesome Linux](https://githu
 ### Transports
 
 * [Malta Airport](https://www.maltairport.com/) - Malta international Airport.
-* [Malta Public Trasnport](https://www.publictransport.com.mt/) - Malta bus service.
+* [Malta Public Transport](https://www.publictransport.com.mt/) - Malta bus service.
 * [Gozo Channel Line](http://www.gozochannel.com/en/home.htm) -  Ferry service between the islands of Malta and Gozo.
 
 ### Business

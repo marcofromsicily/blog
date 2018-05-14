@@ -39,4 +39,6 @@ This quick guide for freelancers was inspired by [Awesome Linux](https://github.
 
 ### learning
 
-* [EDU Open](https://learn.eduopen.org/) - Massive Open Online Courses.
+* [EDU Open](https://learn.eduopen.org/) - Italian online university.
+* [Udacity](https://eu.udacity.com/) - Massive Open Online Courses on informatics.
+* [edx](https://www.edx.org/) - Massive Open Online Courses in many subjects.

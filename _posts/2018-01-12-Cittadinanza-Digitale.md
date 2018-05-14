@@ -19,7 +19,7 @@ E' importante quindi che l'e-mail sia ben protetta attivando la [verifica in due
 Per questo motivo consiglio di attivare una [Gmail](https://www.google.com/intl/it/gmail/about/), l'e-mail di Google oltre ad essere comoda e sicura può essere usata per accedere al proprio smartphone Android.
 
 * [Smartphone](https://www.wikiwand.com/it/Smartphone) - Praticamente qualsiasi smartphone in commercio oggi è idoneo all'utilizzo di servizi online.
-Ci sono però un paio di caratteristiche da tenere a mente: è bene che lo smartphone sia dotato di lettore d'impronta digitale per evitare che sia utilizzato da una persona diversa dal proprietario.
+Ci sono però un paio di caratteristiche da tenere a mente: è bene che lo smartphone sia dotato di lettore d'impronta digitale o di riconoscimento del volto per evitare che sia utilizzato da una persona diversa dal proprietario.
 E' bene anche che lo smartphone sia dotato di lettore [Near Field Communication](https://www.wikiwand.com/it/Near_Field_Communication) per poter leggere la nuova [Carta d'Identità Elettronica](http://www.cartaidentita.interno.gov.it/il-microprocessore/).
 Se si usa [Android](https://www.android.com/) è possibile usare [Google Play Protect](https://www.android.com/play-protect/) come antivirus.
 Infine è consigliabile seguire la pagina della polizia ["Una vita da social"](https://www.facebook.com/unavitadasocial/) per rimanere sempre aggiornati sulla sicurezza online.
