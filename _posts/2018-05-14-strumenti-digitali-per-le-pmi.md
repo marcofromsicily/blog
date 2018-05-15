@@ -25,6 +25,7 @@ Gli strumenti di e-Government servono all'interazione digitale tra le imprese e 
 * [Registro delle Imprese](http://www.registroimprese.it/) - Il registro delle imprese è l'anagrafe che registra i dati di tutte le imprese attive in Italia. Tramite il sito del registro si può aprire una nuova impresa e visualizzare i contatti di tutte le imprese italiane. 
 * [Impresa.Italia.it](https://impresa.italia.it/) - Impresa.Italia.it è il cassetto digitale che i titolari d'impresa possono utilizzare per visualizzare la raccolta dei documenti che l'impresa ha consegnato alle pubbliche amministrazioni. 
 * [Fattura Elettronica Infocamere](https://fatturaelettronica.infocamere.it/) - Fattura Elettronica Infocamere è un servizio online gratuito di fatturazione elettronica che le piccole e medie imprese possono usare per fatturare alle pubbliche amministrazioni ed ai privati. Il servizio è offerto dalle camere di commercio.
+* [Libri Digitali](https://libridigitali.camcom.it/) - I Libri Digitali sono un servizio della Camera di Commercio per gestire e conservare i libri sociali e contabili dell'impresa.
 
 ### Amministrazione
 
