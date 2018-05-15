@@ -17,7 +17,8 @@ permalink: /temi/
 
 ![Digitale](https://raw.githubusercontent.com/marcofromsicily/blog/master/images/digitale.jpg)
 
-* [Cittadinanza Digitale](http://www.marcolombardo.com/blog/agenda/digitale/2018/01/12/Cittadinanza-Digitale.html) - Una guida agli strumenti che permettono la fruizione digitale dei servizi pubblici e privati.
+* [Cittadinanza Digitale](http://www.marcolombardo.com/blog/agenda/digitale/2018/01/12/Cittadinanza-Digitale.html) - Una guida agli strumenti che permettono ai cittadini la fruizione digitale dei servizi pubblici e privati.
+* [Strumenti Digitali per le PMI](http://www.marcolombardo.com/blog/open/source/2018/05/14/strumenti-digitali-per-le-pmi.html) - Una guida agli strumenti digitali per le piccole e medie imprese italiane. 
 * [Freelancing in Italy](http://www.marcolombardo.com/blog/freelance/2017/08/28/freelancing-in-italy.html) - Una guida agli strumenti digitali che permettono di svolgere un'attività da freelance in Italia.
 * [Open Data Bellissimi](http://www.marcolombardo.com/blog/open/source/2018/04/16/open-data-bellissimi.html) - Esempi pratici sul come la comunità open data diffonde una cultura moderna del digitale.
 
