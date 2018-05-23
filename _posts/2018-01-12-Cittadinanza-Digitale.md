@@ -25,7 +25,7 @@ Se si usa [Android](https://www.android.com/) è possibile usare [Google Play Pr
 Infine è consigliabile seguire la pagina della polizia ["Una vita da social"](https://www.facebook.com/unavitadasocial/) per rimanere sempre aggiornati sulla sicurezza online.
 
 * [SPID](https://www.spid.gov.it/) - Il sistema pubblico d'identità digitale è la password unica per accedere ai servizi online delle pubbliche amministrazioni.
-Ci sono varie aziende che permettono di ottenere SPID, ma secondo me è molto comodo chiederlo alle Poste seguendo la [procedura descritta sul sito](https://www.poste.it/posteid.html?wt.ac=1473802358516).
+Ci sono varie aziende che rilasciano le credenziali SPID, ma secondo me è molto comodo chiederlo alle Poste seguendo la [procedura descritta sul sito](https://posteid.poste.it/).
 L'elenco di tutti i servizi online utilizzabili con SPID è disponibile sul [sito ufficiale](https://www.spid.gov.it/servizi).
 Per richiedere SPID sono sufficienti la carta d'identità, la tessera sanitaria, un indirizzo e-mail, un numero di telefono cellulare.
 
