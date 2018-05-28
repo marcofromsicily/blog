@@ -32,6 +32,9 @@ This quick guide for nomad workers was inspired by [Awesome Linux](https://githu
 
 ### Transports
 
+![Milano Centrale](https://raw.githubusercontent.com/marcofromsicily/blog/master/images/milano-centrale-ingresso-principale.jpg)
+
+
 * [ATM App](https://www.atm.it/it/ViaggiaConNoi/Pagine/ATMMobile.aspx) - Real time information about public transports.
 
 ### Incubators
@@ -49,12 +52,16 @@ This quick guide for nomad workers was inspired by [Awesome Linux](https://githu
 
 ### Events
 
-* [Milan Digital Week](http://milanodigitalweek.com/) 
+![Naviglio Grande](https://raw.githubusercontent.com/marcofromsicily/blog/master/images/naviglio-grande-milano.jpg)
+
+* [Milan Digital Week](http://milanodigitalweek.com/)
 * [Economia Urbana e Lavoro](http://www.lavoroeformazioneincomune.it/) - Social innovation events calendar.
 * [Yes Milano](http://www.yesmilano.it/) - International events calendar.
 * [Turismo Milano](https://www.turismo.milano.it/) - Cultural events calendar.
 
 ### Sightseeing
+
+![Basilica Sant'Ambrogio](https://raw.githubusercontent.com/marcofromsicily/blog/master/images/basilica-sant-ambrogio-milano.jpg)
 
 * [Duomo](http://www.duomomilano.it/it/) - Milan Cathedral.
 * [Galleria Vittorio Emanuele II](http://www.ingalleria.com/it) - The world oldest shopping mall.
@@ -69,6 +76,8 @@ This quick guide for nomad workers was inspired by [Awesome Linux](https://githu
 * [Armani Silos](https://www.armanisilos.com/it_IT/) - Armani museum.
 
 ### Food
+
+![Pizzeria Sorbillo](https://raw.githubusercontent.com/marcofromsicily/blog/master/images/sorbillo-milano.jpg)
 
 * [Spontini](http://www.pizzeriaspontini.it/) - Pizzeria.
 * [Sorbillo](http://www.sorbillo.it/) - Pizzeria.
