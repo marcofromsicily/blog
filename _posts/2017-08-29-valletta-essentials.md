@@ -11,6 +11,8 @@ categories: City Guides
 
 "Valletta Essentials" is my collection of essential links for digital nomads visiting [Valletta](http://www.cityofvalletta.org/).
 
+{% include youtubePlayer.html id="HooxK8XmXw8" %}
+
 I advice to dedicate a screen of your smartphone to bookmarks related to Valletta, so you can feel the pulse of the city with a look at your smartphone.
 
 This quick guide for nomad workers was inspired by [Awesome Linux](https://github.com/madbob/awesome-linux-dev).
@@ -26,13 +28,15 @@ This quick guide for nomad workers was inspired by [Awesome Linux](https://githu
 
 ### Transports
 
+{% include youtubePlayer.html id="L4fP2vzKrQ8" %}
+
 * [Malta Airport](https://www.maltairport.com/) - Malta international Airport.
 * [Malta Public Transport](https://www.publictransport.com.mt/) - Malta bus service.
 * [Gozo Channel Line](http://www.gozochannel.com/en/home.htm) -  Ferry service between the islands of Malta and Gozo.
 
 ### Business
 
-* [MITA Innovation HUB](https://mitainnovationhubcms.gov.mt) - Early ​stage digital startup ecosystem
+* [MITA Innovation HUB](https://mitainnovationhubcms.gov.mt) - Early ​stage digital startup ecosystem.
 * [Malta Chamber](http://www.maltachamber.org.mt/) - Malta Chamber of Commerce.
 * [Malta Enterprise](https://www.maltaenterprise.com/) - Malta economic development agency.
 
@@ -43,9 +47,12 @@ This quick guide for nomad workers was inspired by [Awesome Linux](https://githu
 
 ### Sightseeing
 
+{% include youtubePlayer.html id="W9eWL3AVsRM" %}
+
 * [Upper Barrakka Gardens - Valletta](https://youtu.be/HooxK8XmXw8) - Panoramic view of the Grand Harbour.
 * [ST John's Co-Cathedral](https://www.stjohnscocathedral.com/) - Cathedral.
 * [Cittadella - Gozo](https://en.wikipedia.org/wiki/Cittadella_(Gozo)) -  Citadel in Victoria Gozo.
+* [Comino](https://www.visitmalta.com/en/island-of-comino) - Island.
 
 
 ### Webcam
