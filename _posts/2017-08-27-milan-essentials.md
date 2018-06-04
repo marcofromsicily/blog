@@ -15,6 +15,9 @@ I advice to dedicate a screen of your smartphone to bookmarks related to Milan, 
 
 This quick guide for nomad workers was inspired by [Awesome Linux](https://github.com/madbob/awesome-linux-dev).
 
+{% include youtubePlayer.html id="8e_5D4oxTqs" %}
+
+
 ## Contents
 
 * [Accommodation](#accommodation)
@@ -59,6 +62,8 @@ This quick guide for nomad workers was inspired by [Awesome Linux](https://githu
 * [Yes Milano](http://www.yesmilano.it/) - International events calendar.
 * [Turismo Milano](https://www.turismo.milano.it/) - Cultural events calendar.
 
+{% include youtubePlayer.html id="6lsVCF89aGs" %}
+
 ### Sightseeing
 
 ![Basilica Sant'Ambrogio](https://raw.githubusercontent.com/marcofromsicily/blog/master/images/basilica-sant-ambrogio-milano.jpg)
@@ -74,6 +79,10 @@ This quick guide for nomad workers was inspired by [Awesome Linux](https://githu
 * [Bosco Vericale](https://en.wikipedia.org/wiki/Bosco_Verticale) - Residential towers.
 * [Hangar Bicocca](http://www.hangarbicocca.org/) - Contemporary art museum.
 * [Armani Silos](https://www.armanisilos.com/it_IT/) - Armani museum.
+
+{% include youtubePlayer.html id="xjAfrOBGHCM" %}
+
+* [San Cristoforo sul Naviglio](https://www.tripadvisor.it/Attraction_Review-g187849-d1913100-Reviews-Chiesa_di_San_Cristoforo_sul_Naviglio-Milan_Lombardy.html) - Church
 
 ### Food
 
