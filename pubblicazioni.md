@@ -45,8 +45,11 @@ permalink: /pubblicazioni/
 </ul>
 
 <ul style="text-align: center;">
+<li>
+    <a href="http://opendatasicilia.it/2018/06/07/aprire-unimpresa-in-sicilia-fermandosi-al-login/">Aprire un'impresa in Sicilia, fermandosi al login – Open Data Sicilia 07/06/2018</a>
+  </li>
   <li>
-    <a href="https://www.marcofromsicily.com/wp-content/uploads/2017/09/articoloqualita-1.pdf">Dai Cigni Neri al Post-Capitalismo – QualitàOnline 15/10/2015</a>
+    <a href="https://www.businessinformatics.it/wordpress/wp-content/uploads/2018/06/articoloqualita-1.pdf">Dai Cigni Neri al Post-Capitalismo – Qualità Online 15/10/2015</a>
   </li>
   <li>
     <a href="http://www.libreitalia.it/l8-maggio-il-primo-forum-associazione-italiana-del-software-libero/" target="_blank" rel="noopener noreferrer">L’8 maggio il primo forum Associazione Italiana del Software Libero – LibreItalia 30/04/2015</a>
@@ -71,13 +74,6 @@ permalink: /pubblicazioni/
   </li>
 </ul>
 
-<p style="text-align: center;">
-  <strong>Blog personale realizzato con Jekyll</strong>
-</p>
-
-<li style="text-align: center;">
-  <a href="http://www.marcolombardo.com/blog/">Blog</a>
-</li>
 
 <p style="text-align: center;">
   <strong>Teatro:</strong>
