@@ -42,4 +42,4 @@ L'app risulta particolarmente comoda quando si vuole acquistare delle [Confezion
 
 {% include youtubePlayer.html id="I-yPf4Ezum8" %}
 
-L'app risulta comoda, inoltre, per tracciare la spedizione tramite il codice che si riceve al momento dell'invio.
+L'app risulta utile, inoltre, per tracciare la spedizione tramite il codice che si riceve al momento dell'invio.
