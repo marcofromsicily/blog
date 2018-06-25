@@ -64,7 +64,7 @@ This quick guide for nomad workers was inspired by [Awesome Linux](https://githu
 * [Antica Focacceria San Francesco](http://mobile.anticafocacceria.it) - Traditional Sicilian Food.
 * [Fud Bottega Sicula](http://www.fud.it/) - Modern Sicilian Food.
 * [Caffè del Teatro](http://www.caffedelteatromassimo.it/) - Bar inside Teatro Massimo.
-* [Ballarak](https://www.facebook.com/ballarak/) - Brewery
+* [Ballarak](https://www.facebook.com/ballarak/) - Brewery.
 * [San Lorenzo Mercato](http://www.sanlorenzomercato.it/) - Urban market with Sicilian Food.
 
 ### Incubators
@@ -98,6 +98,7 @@ This quick guide for nomad workers was inspired by [Awesome Linux](https://githu
 * [WIAD](http://www.wiadpalermo.com/) - World Information Architecture Day.
 * [Startup weekend Palermo](https://startupweekend.org/) - 54-hour weekend event to launch startups.
 * [La Domenica Favorita](http://www.ladomenicafavorita.com/) - An event to discover the biggest park of Palermo.
+* [Fiera del Mediterraneo](https://www.medifiere.it/) - Palermo trade fair.
 
 ### Webcam
 
@@ -114,5 +115,6 @@ This quick guide for nomad workers was inspired by [Awesome Linux](https://githu
 
 ### Minisites
 
-* [Seven reasons to move to Palermo](http://www.marcolombardo.com/movetopalermo/)
-* [Two days in Palermo](http://www.marcolombardo.com/twodaysinpalermo/) - Tourist guide.
+* [Seven reasons to move to Palermo](http://www.marcolombardo.com/movetopalermo/) - an invitation to business and IT People.
+* [Two days in Palermo](http://www.marcolombardo.com/twodaysinpalermo/) - A quick tourist guide of Palermo.
+* [Palermo 2030](http://www.marcolombardo.com/blog/city/guides/2018/06/15/palermo-2030.html) - A list of Palermo urban development projects.
