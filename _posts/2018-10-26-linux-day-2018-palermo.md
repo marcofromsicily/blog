@@ -18,9 +18,10 @@ tags:
 
 ![Linux Day 2018 Palermo locandina](https://raw.githubusercontent.com/marcofromsicily/blog/master/images/locandina-linux-day-2018.jpg)
 
-Sabato 27 ottobre 2018, presso i Cantieri Culturali alla Zisa di Palermo, durante il Linux Day 2018 [organizzato dal Free Circle](https://linuxday.thefreecircle.org/2018/it/), terrò un Talk su [git e github](http://www.marcolombardo.com/presentazione-linux-day-2018/).
+Sabato 27 ottobre 2018, presso i Cantieri Culturali alla Zisa di Palermo, durante il Linux Day 2018 [organizzato dal Free Circle](https://linuxday.thefreecircle.org/2018/it/), ho tenuto un Talk su [git e github](http://www.marcolombardo.com/presentazione-linux-day-2018/).
 
+![Marco al Linux Day 2018 Palermo](https://raw.githubusercontent.com/marcofromsicily/blog/master/images/marco-linux-day-2018.jpg)
 
-Il Linux Day 2018 è sponsorizzato da [Industria Italiana del Software Libero](https://www.industriasoftwarelibero.it), che [parteciperà agli eventi di Rieti, Benevento, Cosenza e Palermo](https://www.industriasoftwarelibero.it/industria-al-linux-day-2018/).
+Il Linux Day 2018 è stato sponsorizzato da [Industria Italiana del Software Libero](https://www.industriasoftwarelibero.it), che [ha partecipato agli eventi di Rieti, Benevento, Cosenza e Palermo](https://www.industriasoftwarelibero.it/industria-al-linux-day-2018/).
 
 ![Industria al Linux Day 2018](https://raw.githubusercontent.com/marcofromsicily/blog/master/images/linux-day-industria-2018.jpg)
