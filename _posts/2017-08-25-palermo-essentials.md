@@ -33,7 +33,7 @@ This quick guide for nomad workers was inspired by [Awesome Linux](https://githu
 
 ### Accommodations
 
-* [Airbnb](https://www.airbnb.it/) - The city of Palermo [has an agreement with Airbnb](https://www.comune.palermo.it/noticext.php?id=17283) for promoting tourism.
+* [Airbnb](https://www.airbnb.it/rooms/27190965?s=51) - The city of Palermo [has an agreement with Airbnb](https://www.comune.palermo.it/noticext.php?id=17283) for promoting tourism.
 * [Booking](https://www.booking.com/) - A widely used hotel booking website.
 
 ### Transports
@@ -63,7 +63,7 @@ This quick guide for nomad workers was inspired by [Awesome Linux](https://githu
 
 * [Antica Focacceria San Francesco](http://mobile.anticafocacceria.it) - Traditional Sicilian Food.
 * [Fud Bottega Sicula](http://www.fud.it/) - Modern Sicilian Food.
-* [Caffè del Teatro](http://www.caffedelteatromassimo.it/) - Bar inside Teatro Massimo.
+* [Bistrò del Teatro Massimo](https://www.facebook.com/bistrodelteatromassimo/) - Bar inside Teatro Massimo.
 * [Ballarak](https://www.facebook.com/ballarak/) - Brewery.
 * [San Lorenzo Mercato](http://www.sanlorenzomercato.it/) - Urban market with Sicilian Food.
 
@@ -90,7 +90,6 @@ This quick guide for nomad workers was inspired by [Awesome Linux](https://githu
 ### Events
 
 * [Capital of Culture](http://www.palermocapitalecultura.it/) - Palermo 2018 Capital of Culture.
-* [MANIFESTA](http://m12.manifesta.org/) - The European Biennial of Contemporary Art.
 * [Le vie dei Tesori](http://www.leviedeitesori.com/) - A festival that promotes the most important Art sites in Palermo,Agrigento, Messina, Caltanissetta, Siracusa.
 * [Creative Mornings Palermo](https://creativemornings.com/cities/pmo) - Breakfast lecture series for the creative community.
 * [Una Marina di Libri](http://unamarinadilibri.it/) - Book festival.
