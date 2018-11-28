@@ -22,6 +22,8 @@ Sabato 27 ottobre 2018, presso i Cantieri Culturali alla Zisa di Palermo, durant
 
 ![Marco al Linux Day 2018 Palermo](https://raw.githubusercontent.com/marcofromsicily/blog/master/images/marco-linux-day-2018.jpg)
 
+{% include youtubePlayer.html id="WaM4GajPx6Q" %}
+
 Il Linux Day 2018 è stato sponsorizzato da [Industria Italiana del Software Libero](https://www.industriasoftwarelibero.it), che [ha partecipato agli eventi di Rieti, Benevento, Cosenza e Palermo](https://www.industriasoftwarelibero.it/industria-al-linux-day-2018/).
 
 ![Industria al Linux Day 2018](https://raw.githubusercontent.com/marcofromsicily/blog/master/images/linux-day-industria-2018.jpg)
