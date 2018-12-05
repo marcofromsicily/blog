@@ -24,6 +24,8 @@ permalink: /pubblicazioni/
 
 # Interventi su altri blog:
 
+* <a href="http://opendatasicilia.it/2018/12/04/il-difensore-civico-per-il-digitale-fa-moral-suasion-su-spid/">Il Difensore civico per il digitale fa moral suasion su SPID? – Open Data Sicilia 04/12/2018</a>
+
 * <a href="http://opendatasicilia.it/2018/06/07/aprire-unimpresa-in-sicilia-fermandosi-al-login/">Aprire un'impresa in Sicilia, fermandosi al login – Open Data Sicilia 07/06/2018</a>
 
 * <a href="https://www.businessinformatics.it/wordpress/wp-content/uploads/2018/06/articoloqualita-1.pdf">Dai Cigni Neri al Post-Capitalismo – Qualità Online 15/10/2015</a>
