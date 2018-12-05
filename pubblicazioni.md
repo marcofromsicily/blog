@@ -30,7 +30,7 @@ permalink: /pubblicazioni/
 
 * <a href="https://www.businessinformatics.it/wordpress/wp-content/uploads/2018/06/articoloqualita-1.pdf">Dai Cigni Neri al Post-Capitalismo – Qualità Online 15/10/2015</a>
   
-* <a href="http://www.libreitalia.it/l8-maggio-il-primo-forum-associazione-italiana-del-software-libero/" target="_blank" rel="noopener noreferrer">L’8 maggio il primo forum Associazione Italiana del Software Libero – LibreItalia 30/04/2015</a>
+* <a href="https://www.businessinformatics.it/wordpress/wp-content/uploads/2018/12/L’8-maggio-il-primo-forum-Associazione-Italiana-del-Software-Libero.pdf" target="_blank" rel="noopener noreferrer">L’8 maggio il primo forum Associazione Italiana del Software Libero – LibreItalia 30/04/2015</a>
 
 * <a href="http://www.rosalio.it/2011/09/23/la-fiera-del-nuovo-mediterraneo/" target="_blank" rel="noopener noreferrer">“La fiera del nuovo Mediterraneo” – Rosalio 23/09/11</a>
 
