@@ -76,6 +76,7 @@ This quick guide for nomad workers was inspired by [Awesome Linux](https://githu
 
 * [Neunoi](http://www.neunoi.it/) - Coworking located in the old city center.
 * [Magneti](http://www.magnetico.work/) - Coworking located in the modern city center.
+* [Scalo 5B](https://www.scalo5b.com/) - Coworking located inside Fiera del Mediterraneo.
 
 ### Communities
 
