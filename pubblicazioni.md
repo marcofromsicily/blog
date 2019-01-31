@@ -31,11 +31,11 @@ permalink: /pubblicazioni/
 
 * [Aprire un'impresa in Sicilia, fermandosi al login – Open Data Sicilia 07/06/2018](http://opendatasicilia.it/2018/06/07/aprire-unimpresa-in-sicilia-fermandosi-al-login/)
 
-* [Dai Cigni Neri al Post-Capitalismo – Qualità Online 15/10/2015]("https://www.businessinformatics.it/wordpress/wp-content/uploads/2018/06/articoloqualita-1.pdf)
+* [Dai Cigni Neri al Post-Capitalismo – Qualità Online 15/10/2015](https://www.businessinformatics.it/wordpress/wp-content/uploads/2018/06/articoloqualita-1.pdf)
 
 * [L’8 maggio il primo forum Associazione Italiana del Software Libero – LibreItalia 30/04/2015](https://www.businessinformatics.it/wordpress/wp-content/uploads/2018/12/L’8-maggio-il-primo-forum-Associazione-Italiana-del-Software-Libero.pdf)
 
-* [La fiera del nuovo Mediterraneo” – Rosalio 23/09/11]("http://www.rosalio.it/2011/09/23/la-fiera-del-nuovo-mediterraneo/)
+* [La fiera del nuovo Mediterraneo” – Rosalio 23/09/11](http://www.rosalio.it/2011/09/23/la-fiera-del-nuovo-mediterraneo/)
 
 * [Caro candidato sindaco…” – Rosalio 04/08/11](http://www.rosalio.it/2011/08/04/caro-candidato-sindaco/)
 
