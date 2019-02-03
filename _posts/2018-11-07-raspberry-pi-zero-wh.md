@@ -6,7 +6,7 @@ categories: Open Source
 
 # Raspberry Pi Zero WH
 
-![Raspberry Pi Zero WH](https://raw.githubusercontent.com/marcofromsicily/blog/master/images/pi-zero.jpg)
+![Raspberry Pi Zero WH](/blog/images/pi-zero.jpg)
 
 Il [Raspberry Pi Zero WH](https://www.raspberrypi.org/products/raspberry-pi-zero-w/) è uno dei computer più piccoli ed economici del mondo.
 
