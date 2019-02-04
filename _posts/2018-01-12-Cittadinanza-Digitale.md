@@ -30,13 +30,13 @@ L'elenco di tutti i servizi online utilizzabili con SPID è disponibile sul [sit
 Per richiedere SPID sono sufficienti la carta d'identità, la tessera sanitaria, un indirizzo e-mail, un numero di telefono cellulare.
 
 
-* [Carta prepagata](https://it.wikipedia.org/wiki/Carta_prepagata) - Le carte prepagate sono delle semplici carte ricaricabili in contanti o tramite bonifico bancario, come ad esempio la [Postepay Evolution](https://postepay.poste.it/prodotti/postepay-evolution.html) o la carta [N26](https://n26.com/), o qualsiasi altra carta ricaricabile che trovate in banca o in posta.
-Le carte prepagate appartengono spesso ai circuiti [Visa](https://www.visaitalia.com/carte-per-privati/gamma-di-carte-visa/paga-prima) e [Mastercard](https://www.mastercard.it/it-it/privati/le-carte/carte-prepagate.html) e possono essere utilizzate per fare acquisiti online o per pagare la pubblica amministrazione via [PagoPA](https://teamdigitale.governo.it/it/projects/pagamenti-digitali.htm).
+* [Carta prepagata](https://it.wikipedia.org/wiki/Carta_prepagata) - Le carte prepagate sono delle semplici carte ricaricabili in contanti o tramite bonifico bancario, come ad esempio la [Postepay Evolution](https://postepay.poste.it/prodotti/postepay-evolution.html), la carta [N26](https://n26.com/), o qualsiasi altra carta ricaricabile che trovate in banca o in posta.
+Le carte prepagate appartengono spesso ai circuiti Visa oppure Mastercard e possono essere utilizzate per fare acquisiti online o per pagare la pubblica amministrazione via [PagoPA](https://teamdigitale.governo.it/it/projects/pagamenti-digitali.htm).
 Le carte prepagate sono sicure perchè potete ricaricarle anche solo con l'importo che volete spendere online, inoltre sono dotate di un [codice di sicurezza](https://it.wikipedia.org/wiki/Card_Security_Code) stampato sulla carta.
 Sempre più spesso è richiesto di autorizzare i pagamenti online con una password che viene inviata via sms o con un'app.
 
-* [App della cittadinanza digitale](https://io.italia.it/) - L'app della Cittadinanza Digitale, attualmente non ancora disponibile, permetterà entro il 2018 di ricevere comunicazioni da parte della pubblica amministrazione via smartphone anzichè via posta raccomandata.
+* [App della cittadinanza digitale](https://io.italia.it/) - L'app della Cittadinanza Digitale, attualmente non ancora disponibile, permetterà entro il 2019 di ricevere comunicazioni da parte della pubblica amministrazione via smartphone anzichè via posta raccomandata.
 L’app in futuro dovrebbe contenere anche le ricevute dei pagamenti fatti alla pubblica amministrazione ed il calendario con le scadenze sui documenti da presentare ed i pagamenti da fare.
 
 * [Carta d'Identità Elettronica](http://www.cartaidentita.interno.gov.it/) - La nuova carta d'identità elettronica è dotata di un [microprocessore](http://www.cartaidentita.interno.gov.it/il-microprocessore/) che contiene i dati e le impronte digitali del titolare.
-La carta può essere usata per accedere ai servizi online della pubblica amministrazione scaricando su uno smartphone Android dotato di lettore NFC l'[App ufficiale](https://www.cartaidentita.interno.gov.it/cie-id/).
+La carta può essere usata per accedere ai servizi online della pubblica amministrazione scaricando l'[App ufficiale](https://www.cartaidentita.interno.gov.it/cie-id/) su uno smartphone Android dotato di lettore NFC .
