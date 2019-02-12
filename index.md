@@ -18,3 +18,5 @@ Nel 2013 ho conseguito la laurea magistrale in Scienze Economico Aziendali press
 Nel 2010, con una tesi sul [contributo del software libero allo sviluppo dei sistemi informativi aziendali](https://www.slideshare.net/marcofromsicily/tesi-11786785?related=1), ho conseguito la laurea in Economia Aziendale presso l’[Università di Palermo](http://www.unipa.it/), con un semestre di studio Erasmus al [Waterford Institute of Technology](https://www.wit.ie/) nel 2007.
 
 Il mio cv social  è su [Linkedin](https://www.linkedin.com/in/marcofromsicily/).
+
+Mi trovate su tutti i social network col nickname [marcofromsicily](http://marcofromsicily.com/).
