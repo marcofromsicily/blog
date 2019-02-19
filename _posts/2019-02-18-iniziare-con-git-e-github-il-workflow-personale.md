@@ -50,7 +50,7 @@ I testi elaborati con Word e LibreOffice, ad esempio, possono avere colori diver
 
 Quando si lavora con Git, invece, si utilizza testo puro, senza alcuna formattazione.
 
-Se non sai quale editor di testo utilizzare, ti consiglio quindi di scaricare [ATOM](https://atom.io/) oppure [Visual Studio Code](https://code.visualstudio.com/), entrambi liberi e gratuiti.
+Se non sai quale editor di testo utilizzare, ti consiglio di scaricare [ATOM](https://atom.io/) oppure [Visual Studio Code](https://code.visualstudio.com/), entrambi liberi e gratuiti.
 
 ![Terminale](/blog/images/terminale.jpg)
 
@@ -58,7 +58,8 @@ Se non sai quale editor di testo utilizzare, ti consiglio quindi di scaricare [A
 
 Il Terminale, tecnicamente noto come [Shell di Bash](https://it.wikipedia.org/wiki/Bash), è la classica modalità di interazione tra utente e computer nei sistemi [Unix](https://it.wikipedia.org/wiki/Unix).
 
-Se avete un bel Mac oppure un pc con Linux: congratulazioni, non dovete installare nulla, troverete il terminale tra i vostri programmi installati, controllate bene tutti i menù.
+Se avete un bel Mac oppure un pc con Linux: congratulazioni, non dovete installare nulla! 
+Troverete il terminale tra i vostri programmi installati, controllate bene tutti i menù.
 
 Se un avete un sistema Windows o un Chromebook, cercate su Google come si installa ed usa un terminale, perchè non verrà descritto in questa guida.
 
@@ -92,7 +93,7 @@ Adesso l'unica cosa che dovete ricordare è la url del vosoro repository, la tro
 
 ![Git Clone](/blog/images/3-git-clone.png)
 
-# Scarichiamo il nostro repo
+# git clone
 
 E' arrivato il momento di aprire il terminale e scaricare una copia del repo che abbiamo appena creato online.
 
@@ -114,7 +115,9 @@ Aprendola troveremo i seguenti file:
 
 * Il file "README.md", che è il primo file di testo del nostro repository.
 * La licenza che vogliamo apporre al nostro lavoro.
-* Una cartella nascosta di nome .git, visualizzabile se avete attivato le impostazioni per vedere i file e le cartelle nascoste. Se non lo avete fatto, va bene lo stesso. Quella cartella è il posto in cui git tiene traccia dei cambiamenti di versione del vostro progetto, e non va toccata in nessun modo. 
+* Una cartella nascosta di nome .git, visualizzabile se avete attivato le impostazioni per vedere i file e le cartelle nascoste. 
+Se non avete attivato le impostazioni per vedere cartelle e file nascosti, va bene lo stesso. 
+Quella cartella .git è il posto in cui git tiene traccia dei cambiamenti di versione del vostro progetto, non va toccata in nessun modo. 
 
 ![File Readme](/blog/images/5-readme.png)
 
@@ -124,11 +127,11 @@ Un bel doppio click sul file "README.md" per aprirlo con l'editor di testo, io u
 
 Possiamo aggiungere una riga qualunque di prova e salvare il nostro file.
 
-Io ho scritto "aggiungo questa riga".
+Io ho scritto "Aggiungo questa riga".
 
 ![Git Diff](/blog/images/6-git-diff.png)
 
-# Git Diff
+# git diff
 
 Se adesso torniamo al nostro terminale, digitando il comando "git diff", git ci farà vedere che si è accorto delle modifiche che abbiamo fatto al nostro file di testo.
 
@@ -136,7 +139,7 @@ In particolare, in verde si vede la riga che ho aggiunto al file.
 
 ![Git Status](/blog/images/7-git-status.png)
 
-# Git Status
+# git status
 
 Digitando in qualsiasi momento il comando "git status", git ci informerà dello stato in cui si trova il nostro progetto.
 
@@ -144,13 +147,15 @@ Nel nostro caso, in rosso, è evidenziato il nome del file che è stato modifica
 
 ![Nuovo File](/blog/images/8-nuovo-file.png)
 
+# Un nuovo file
+
 Tornando adesso all'editor di testo, possiamo creare un nuovo file per il nostro progetto.
 
 Lo chiamiamo ad esempio "primofile.md" e scriviamo dentro una riga a caso, giusto per non lasciarlo vuoto.
 
 ![Git Status](/blog/images/9-git-status.png)
 
-# Git Status
+# git status
 
 Digitando nuovamente "git status", visualizzeremo che git ha preso atto del fatto che il file "README.md" è stato modificato e che il file "primofile.md" è stato aggiunto al repository.
 
@@ -158,7 +163,7 @@ Li trovate entrambi evidenziati in rosso.
 
 ![Git Add](/blog/images/10-git-add.png)
 
-# Git Add
+# git add
 
 A questo punto, come suggerito dallo stesso comando "git status", digitiamo un "git add ." per aggiungere tutti i file della nostra cartella di lavoro all'elenco dei file tracciati da git, ovvero l'elenco dei file di cui git fa un controllo di versione.
 
@@ -166,7 +171,7 @@ Digitando nuovamente un "git status" ci accorgeremo che adesso i nomi dei file s
 
 ![Git Commit](/blog/images/11-git-commit.png)
 
-# Git Commit
+# git commit
 
 Siamo pronti adesso a salvare una nuova versione del nostro lavoro.
 
@@ -182,13 +187,13 @@ Nel mio caso ho digitato 'git commit -a -m "aggiunto primofile" ' per descrivere
 
 ![Git Status](/blog/images/12-git-status.png)
 
-# Git Status
+# git status
 
 Se adesso digitiamo un "git status" per sapere a che punto è il nostro lavoro, git ci risponderà che la versione della cartella che abbiamo salvato sul nostro pc, ha un salvataggio in più rispetto alla cartella che si trova su GitHub.
 
 ![Git Push](/blog/images/13-git-push.png)
 
-# Git Push
+# git push
 
 Come suggerito dallo stesso comando "git status", digitiamo adesso un "git push" per far si che il salvataggio presente sul nostro pc personale venga riportato anche sul salvataggio in cloud che abbiamo si GitHub.
 
@@ -196,7 +201,7 @@ Ci verranno richieste nome utente e password per salvare su GitHub.
 
 ![Git Log](/blog/images/14-git-log.png)
 
-# Git log
+# git log
 
 Il comando "git log" serve a darci l'elenco di tutte le versioni del nostro lavoro.
 
@@ -210,7 +215,7 @@ Di entrambi i salvataggi vengono riportati l'autore del lavoro e la data del sal
 
 ![Git Show](/blog/images/15-git-show.png)
 
-# Git Show
+# git show
 
 Se adesso voglio vedere nel dettaglio cosa è cambiato all'interno di un salvataggio di versione, posso digitare il comando "git show codicenumerico", indicando quindi il numero del salvataggio.
 
@@ -220,12 +225,12 @@ Come potete leggere in verde, in basso, è riportata la riga che ho aggiunto al 
 
 ![Git Log](/blog/images/16-git-log.png)
 
-# Git log
+# git log
 
 Se adesso voglio vedere lo stesso elenco di tutte le versioni del mio lavoro, mi basta andare su GitHub e cliccare su "commits".
 
 ![Git Show](/blog/images/17-git-show.png)
 
-# Git Show
+# git show
 
 Cliccando, infine sul commit di un salvataggio, potrò visualizzare le modifiche fatte in quella specifica versione.
