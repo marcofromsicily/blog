@@ -8,7 +8,9 @@ categories: Open Source
 
 # Git
 
-L’obiettivo di questo post è illustrare un flusso di lavoro personale che si può percorrere per iniziare a lavorare su Git e GitHub.
+Questo post trae ispirazione dal mio talk al [Linux Day 2018 di Palermo](http://marcolombardo.com/blog/2018/10/26/linux-day-2018-palermo/).
+
+L'obiettivo di questo testo è illustrare un flusso di lavoro personale che si può percorrere per iniziare a lavorare su Git e GitHub.
 
 Innanzitutto, cosa sono Git e GitHub?
 
@@ -234,3 +236,7 @@ Se adesso voglio vedere lo stesso elenco di tutte le versioni del mio lavoro, mi
 # git show
 
 Cliccando, infine sul commit di un salvataggio, potrò visualizzare le modifiche fatte in quella specifica versione.
+
+# Prossimo passo
+
+Qui finisce la prima parte workflow personale, il prossimo passo è [gestire i branch](http://marcolombardo.com/blog/open/source/2019/02/19/iniziare-con-git-e-github-i-branch.html). 
