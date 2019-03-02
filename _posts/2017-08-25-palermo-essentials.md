@@ -6,7 +6,7 @@ categories: City Guides
 
 # Palermo Essentials
 
-![Politeama](/blog/images//politeama.jpg)
+![Politeama](/blog/images/politeama.jpg)
 
 "Palermo Essentials" is my collection of links for digital nomads visiting [Palermo](https://www.comune.palermo.it/).
 
