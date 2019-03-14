@@ -155,3 +155,7 @@ Per ultimo, se lo vogliamo, possiamo cancellare il "ramodiprova" che avevamo cre
 Digitiamo quindi un "git branch -d ramodiprova" per cancellare il "ramodiprova".
 
 Controlliamo l'elenco dei nostri branch con un "git branch".
+
+# Il prossimo passo
+
+Il prossimo passo è [imparare a usare la Pull Request](https://marcolombardo.com/blog/open/source/2019/03/13/iniziare-con-git-e-github-la-pull-request.html).
