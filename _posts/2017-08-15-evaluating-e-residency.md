@@ -49,7 +49,7 @@ e-residency is not related to citizenship and does not give the right to physica
 
 * e-residents still have to deal with their own country tax bureaucracy.
 * to deal with tax offices from two different countries results in an increase of bureaucracy, even if a company avoids double taxation.
-* starting 29.09.2018 Estonia has to accept [Italian digital identity](http://www.agid.gov.it/agenda-digitale/infrastrutture-architetture/il-regolamento-ue-ndeg-9102014-eidas/tappe-del-regolamento-eidas) and eIDAS compliant digital identities as electronic identification. So for european citizens who alreaady have an eIDAS compliant indentity, the e-resident card will be become unnecessary in 2018.
+* starting 04.04.2019 Estonia accepts the [Italian digital identity SPID]https://twitter.com/AgidGov/status/1113753120134303744?s=20).
 
 ### AMA
 
