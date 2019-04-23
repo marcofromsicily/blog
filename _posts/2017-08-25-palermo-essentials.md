@@ -44,7 +44,7 @@ This quick guide for nomad workers was inspired by [Awesome Linux](https://githu
 * [AMAT](http://amat.pa.it/) - The company responsible for public transportation in Palermo.
 * [Trenitalia](http://www.trenitalia.com/) -  The company responsible for Trains transportation in Italy.
 * [Palermo Centrale](http://www.palermocentrale.it/) -  The main railway and bus station.
-* [Port of Palermo](http://www.portpalermo.it/) - Information about ferries.
+* [Port of Palermo](http://www.adsppalermo.it/it) - Information about ferries.
 * [Mobilita Palermo](http://palermo.mobilita.org/) - Blog about Transport, Urban Planning and Infrastructure.
 
 
