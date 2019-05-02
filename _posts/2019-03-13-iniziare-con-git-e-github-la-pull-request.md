@@ -179,8 +179,8 @@ Descriviamo i cambiamenti che abbiamo fatto e inviamo la Pull Request.
 
 Aspettiamo di sapere se la richiesta viene accettata o meno.
 
+# Il prossimo passo
 
-
-
+L'ultima parte della guida è dedicata a[importare commit dai progetti open source che abbiamo forkato](https://marcolombardo.com/blog/open/source/2019/05/02/iniziare-con-git-e-github-importare-i-commit.html).
 
 
