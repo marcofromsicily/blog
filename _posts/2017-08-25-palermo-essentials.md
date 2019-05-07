@@ -95,9 +95,12 @@ This quick guide for nomad workers was inspired by [Awesome Linux](https://githu
 * [Una Marina di Libri](http://unamarinadilibri.it/) - Book festival.
 * [Piano City Palermo](http://www.pianocitypalermo.it/) - Piano festival.
 * [WIAD](http://www.wiadpalermo.com/) - World Information Architecture Day.
-* [Startup weekend Palermo](https://startupweekend.org/) - 54-hour weekend event to launch startups.
 * [La Domenica Favorita](http://www.ladomenicafavorita.com/) - An event to discover the biggest park of Palermo.
 * [Fiera del Mediterraneo](https://www.medifiere.it/) - Palermo trade fair.
+* [La Settimana delle Culture](http://www.settimanadelleculture.it/) - Festival of Culture.
+* [La Via dei Librai](http://cassaroalto.it/) - Book festival.
+* [Startup weekend Palermo](https://startupweekend.org/) - 54-hour weekend event to launch startups.
+
 
 ### Webcam
 
