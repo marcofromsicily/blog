@@ -21,7 +21,9 @@ permalink: /pubblicazioni/
 
 * [Intervista durante il Merge-it di Torino del 24/03/2018 sull'Industria Italiana del Software Libero.](https://www.youtube.com/watch?v=M2jHpMsv66k)
 
-* [Intervento su Git e GitHub al Linux Day 2018](https://youtu.be/WaM4GajPx6Q)
+* [Intervento su Git e GitHub al Linux Day Palermo del 27/10/2018](https://youtu.be/WaM4GajPx6Q)
+
+* [Intervento sul mercato storico della Vucciria durante "Sicilia Sera" del 18/05/2019](https://youtu.be/cBcwAd0rc_0?t=957)
 
 # Interventi su altri blog:
 
@@ -49,7 +51,7 @@ permalink: /pubblicazioni/
 
 # Teatro:
 
-* [Spot “Il teatro di tutti](https://www.youtube.com/watch?v=T-nO4xyAwAE)
+* [Spot “Il teatro di tutti"](https://www.youtube.com/watch?v=T-nO4xyAwAE)
 
 * [Spettacolo “In mezzo al mare”](https://www.youtube.com/watch?v=Sd8CG4npOIs)
 
