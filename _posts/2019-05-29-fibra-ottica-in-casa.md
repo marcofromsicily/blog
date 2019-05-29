@@ -4,9 +4,9 @@ title: "Come Open Fiber mi ha portato la Fibra Ottica in Casa"
 categories: Digitale
 ---
 
-![Fibra Ottica](https://raw.githubusercontent.com/marcofromsicily/blog/master/images/fibra-0.jpg)
+# Fibra Ottica.
 
-# Come Open Fiber mi ha portato la Fibra Ottica in Casa.
+![Fibra Ottica](https://raw.githubusercontent.com/marcofromsicily/blog/master/images/fibra-0.jpg)
 
 In questi mesi in molte abitazioni avviene l'installazione della nuova rete in Fibra Ottica [Open Fiber](https://openfiber.it/it).
 
