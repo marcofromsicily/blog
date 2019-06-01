@@ -27,6 +27,8 @@ permalink: /pubblicazioni/
 
 # Interventi su altri blog:
 
+* [Generare Open Data con un FOIA? Quasi, l’esempio della Fiera del Mediterraneo. - Open Data Sicilia 01/06/2019](http://opendatasicilia.it/2019/06/01/generare-open-data-con-un-foia-quasi-lesempio-della-fiera-del-mediterraneo/)
+
 * [Alloggiati Web ed il diritto all’Identità Digitale. - Open Data Sicilia 18/01/2019](http://opendatasicilia.it/2019/01/18/alloggiati-web-ed-il-diritto-allidentita-digitale/)
 
 * [Il Difensore civico per il digitale fa moral suasion su SPID? – Open Data Sicilia 04/12/2018](http://opendatasicilia.it/2018/12/04/il-difensore-civico-per-il-digitale-fa-moral-suasion-su-spid/)
