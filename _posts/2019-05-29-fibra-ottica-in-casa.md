@@ -33,7 +33,7 @@ Dalla borchia ottica sul muro, fuoriesce un cavo di Fibra che viene connesso ad 
 ![Fibra Ottica](https://raw.githubusercontent.com/marcofromsicily/blog/master/images/fibra-6.jpg)
 
 
-Il "terminale di rete ottico" converte i segnali di luce della Fibra in segnali elettronici.
+Il "terminale di rete ottico" converte i segnali di luce della Fibra in segnali elettrici.
 
 ![Fibra Ottica](https://raw.githubusercontent.com/marcofromsicily/blog/master/images/fibra-7.jpg)
 
