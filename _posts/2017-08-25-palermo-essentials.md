@@ -8,7 +8,7 @@ categories: City Guides
 
 ![Politeama](/blog/images/politeama.jpg)
 
-"Palermo Essentials" is my collection of links for digital nomads visiting [Palermo](https://www.comune.palermo.it/).
+"Palermo Essentials" is my collection of links for digital nomads visiting [Palermo](https://turismo.comune.palermo.it/).
 
 I advice to dedicate a screen of your smartphone to bookmarks related to Palermo, so you can feel the pulse of the city with a look at your smartphone.
 
@@ -33,8 +33,7 @@ This quick guide for nomad workers was inspired by [Awesome Linux](https://githu
 
 ### Accommodations
 
-* [Airbnb](https://www.airbnb.it/rooms/27190965?s=51) - The city of Palermo [has an agreement with Airbnb](https://www.comune.palermo.it/noticext.php?id=17283) for promoting tourism.
-* [Booking](https://www.booking.com/) - A widely used hotel booking website.
+* [Airbnb](https://www.airbnb.it/rooms/27190965?s=51) - The city of Palermo [has an agreement with Airbnb](https://youtu.be/sLlJzywP-DY) for promoting tourism.
 
 ### Transports
 
@@ -54,7 +53,7 @@ This quick guide for nomad workers was inspired by [Awesome Linux](https://githu
 * [Teatro Massimo](http://www.teatromassimo.it/) - The biggest Opera House in Italy.
 * [Unesco Arabo Normanna](http://arabonormannaunesco.it/) - Information about the World Heritage Sites in Palermo.
 * [Galleria d'Arte Moderna](http://www.gampalermo.it/) - Modern Art Museum.
-* [Mondello Beach](http://www.mondellomare.it/) - Palermo's beach. You can choose to visit the beach using one of free paths to the sea or you can pay to enter in areas with services for tourists.
+* [Mondello Beach](https://turismo.comune.palermo.it/palermo-welcome-mare-dettaglio.php?tp=158&det=26&id=373) - Palermo's beach. You can choose to visit the beach using one of free paths to the sea or you can pay to enter in areas with services for tourists.
 * [Santuario Santa Rosalia](http://www.santuariosantarosalia.it/) - The sanctuary on the top of "Monte Pellegrino", a mountain that surrounds Palermo.
 * [Renzo Barbera Stadium](http://palermocalcio.it/) - Football stadium (open on match days ONLY).
 * [Rinascente](https://www.rinascente.it/) - Italy’s most elegant department store.
