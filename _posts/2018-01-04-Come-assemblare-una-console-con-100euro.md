@@ -6,7 +6,7 @@ categories: lifestyle
 
 # Come assemblare una console con 100€
 
-![Fire Tv Console](https://raw.githubusercontent.com/marcofromsicily/blog/master/images/fire-tv-console.jpg)
+![Fire Tv Console](https://raw.githubusercontent.com/marcofromsicily/blog/master/images/firetvconsole.jpg)
 
 * [Fire tv stick basic edition](https://www.amazon.it/Fire-TV-Stick-Basic-Edition/dp/B01ETRGE7M/ref=sr_1_1?ie=UTF8&qid=1515072917&sr=8-1&keywords=fire+tv+stick) - Una pennetta da attaccare alla porta HDMI del televisore per vedere film e giocare. Monta il sistema Fire OS, molto simile ad Android.
 
