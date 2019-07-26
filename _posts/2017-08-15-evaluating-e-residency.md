@@ -49,7 +49,7 @@ e-residency is not related to citizenship and does not give the right to physica
 
 * e-residents still have to deal with their own country tax bureaucracy.
 * to deal with tax offices from two different countries results in an increase of bureaucracy, even if a company avoids double taxation.
-* starting 04.04.2019 Estonia accepts the [Italian digital identity SPID]https://twitter.com/AgidGov/status/1113753120134303744?s=20).
+* starting 04.04.2019 Estonia accepts the [Italian digital identity SPID](https://twitter.com/AgidGov/status/1113753120134303744?s=20), so there may be no need for an Italian to apply for an Estonian e-Residency.
 
 ### AMA
 
