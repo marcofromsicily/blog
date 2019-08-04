@@ -55,7 +55,7 @@ This quick guide for nomad workers was inspired by [Awesome Linux](https://githu
 * [Galleria d'Arte Moderna](http://www.gampalermo.it/) - Modern Art Museum.
 * [Mondello Beach](https://turismo.comune.palermo.it/palermo-welcome-mare-dettaglio.php?tp=158&det=26&id=373) - Palermo's beach. You can choose to visit the beach using one of free paths to the sea or you can pay to enter in areas with services for tourists.
 * [Santuario Santa Rosalia](http://www.santuariosantarosalia.it/) - The sanctuary on the top of "Monte Pellegrino", a mountain that surrounds Palermo.
-* [Renzo Barbera Stadium](http://palermocalcio.it/) - Football stadium (open on match days ONLY).
+* [Renzo Barbera Stadium](https://www.ssdpalermo.it/) - Football stadium (open on match days ONLY).
 * [Rinascente](https://www.rinascente.it/) - Italy’s most elegant department store.
 
 ### Food
