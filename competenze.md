@@ -22,9 +22,9 @@ Ho quindi listato gli oceani rossi che mi sono trovato di fronte dopo la laurea:
 
 
 * Il Web Marketing, settore non solo attuale ma perfino in espansione, che nonostante l&#8217;offerta di un servizio ad altissimo valore aggiunto è rovinato da persone che s&#8217;improvvisano esperti offrendo consulenze di bassa qualità a prezzi modesti.
- 
+
 * Il mondo della Qualità, altro settore potenzialmente con contenuti ad altissimo valore aggiunto per il management,  che purtroppo ha smesso di avere una buona immagine quando ha slegato il concetto di qualità dal controllo statistico della qualità, facendo prevalere alla fine l&#8217;idea che la certificazione con le sue &#8220;carte&#8221; fosse un atto burocratico, piuttosto che un investimento per migliorare la propria organizzazione e soddisfare sempre meglio le richieste dei clienti.
-  
+
 * La comunità del Software Libero, uno strumento fondamentale per le imprese, di cui condivido la filosofia ed i proncipi ma che deve essere visto con un taglio professionale e non esclusivamente ludico.
 
   Più o meno in mezzo a quesi oceani rossi sono andato a posizionare le mie competenze, in modo da offrire qualcosa di nuovo.
@@ -45,4 +45,4 @@ Per sviluppare le mie competenze mi sono impegnato nel mondo dell'associazionism
 * Nel 2014 e nel 2015 <span style="text-decoration: underline;"><span style="text-decoration: underline;"><a style="text-decoration: underline;" href="https://www.youtube.com/watch?v=Sd8CG4npOIs" target="_blank" rel="noopener noreferrer">sono andato in scena</a></span></span> con l&#8217;associazione teatrale <span style="text-decoration: underline;"><span style="text-decoration: underline;"><a style="text-decoration: underline;" href="https://www.facebook.com/MiscelArti-285282424835963/?fref=ts" target="_blank" rel="noopener noreferrer">Miscelarti</a></span></span> all&#8217;interno della manifestazione &#8220;<span style="text-decoration: underline;"><span style="text-decoration: underline;"><a style="text-decoration: underline;" href="https://www.youtube.com/watch?v=avglbWZTaZI" target="_blank" rel="noopener noreferrer">Il Teatro di Tutti</a></span></span>&#8220;.
 
 * Dal 2016 al 2018 sono stato presidente dell&#8217;associazione <span style="text-decoration: underline;"><a style="text-decoration: underline;" href="http://www.industriasoftwarelibero.it/" target="_blank" rel="noopener noreferrer">Industria Italiana del Software Libero</a></span>, dove ho contribuito all&#8217;organizzazione dei <span style="text-decoration: underline;"><a style="text-decoration: underline;" href="http://www.industriasoftwarelibero.it/incontri/" target="_blank" rel="noopener noreferrer">Forum sull&#8217;Industria del Software Libero</a></span>.
-  Il mio impegno per l'associazione dal 2018 prosegue in qualità di tesoriere.
+  
